@@ -12,7 +12,6 @@
             "playable": true
         }
     ],
-    "license": "GPL-3.0-or-later",
     "platform": "GBA",
     "repository": "https://github.com/GValiente/butano/tree/master/games/varooom-3d",
     "screenshots": [
@@ -25,8 +24,8 @@
     "slug": "varooom3d",
     "tags": [
         "Open Source",
-        "RPG",
-        "Adventure",
+        "Racing",
+        "3D",
         "gbajam21"
     ],
     "title": "Varooom 3D",
