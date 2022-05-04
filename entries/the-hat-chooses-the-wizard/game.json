@@ -1,0 +1,25 @@
+{
+    "developer": "Corwin Kuiper and Gwilym Kuiper",
+    "files": [
+        {
+            "default": true,
+            "filename": "the-hat-chooses-the-wizard.gba",
+            "playable": true
+        }
+    ],
+    "platform": "GBA",
+    "repository": "https://github.com/agbrs/agb/tree/master/examples/the-hat-chooses-the-wizard",
+    "website": "https://lostimmortal.itch.io/the-hat-chooses-the-wizard",
+    "slug": "thehatchoosesthewizard",
+    "tags": [
+        "Open Source",
+        "Platform"
+    ],
+    "screenshots": [
+        "1.png",
+        "2.png"
+    ],
+    "title": "The Hat Chooses the Wizard",
+    "typetag": "game",
+    "license": "MPL-2.0"
+}
