@@ -1,24 +1,19 @@
 {
-    "developer": "Corwin Kuiper and Gwilym Kuiper, with music by Sam Williams",
-    "files": [
-        {
-            "default": true,
-            "filename": "the-purple-night.gba",
-            "playable": true
-        }
-    ],
-    "platform": "GBA",
-    "repository": "https://github.com/agbrs/agb/tree/master/examples/the-purple-night",
-    "website": "https://lostimmortal.itch.io/the-purple-night",
-    "slug": "thepurplenight",
-    "tags": [
-        "Open Source",
-        "Platform"
-    ],
-    "screenshots": [
-        "1.png"
-    ],
-    "title": "The purple night",
-    "typetag": "game",
-    "license": "MPL-2.0"
+  "developer": "Corwin Kuiper and Gwilym Kuiper, with music by Sam Williams",
+  "files": [
+    {
+      "default": true,
+      "filename": "the-purple-night.gba",
+      "playable": true
+    }
+  ],
+  "platform": "GBA",
+  "repository": "https://github.com/agbrs/agb/tree/master/examples/the-purple-night",
+  "website": "https://lostimmortal.itch.io/the-purple-night",
+  "slug": "the-purple-night",
+  "tags": ["Open Source", "Platform"],
+  "screenshots": ["1.png"],
+  "title": "The purple night",
+  "typetag": "game",
+  "license": "MPL-2.0"
 }
