@@ -1,0 +1,37 @@
+Third Party Credits
+
+libtonc https://github.com/devkitPro/libtonc
+
+maxmod https://maxmod.devkitpro.org/
+
+posprintf http://www.danposluns.com/gbadev/posprintf/index.html
+
+Sound Effects:
+
+book Open	https://freesound.org/people/flag2/sounds/63318/	
+page flip	https://freesound.org/people/j1987/sounds/573068/	
+reward	https://pixabay.com/sound-effects/	
+coin	https://freesound.org/people/FractalStudios/sounds/363090/	
+reward 2	https://freesound.org/people/The-Sacha-Rush/sounds/336934/	
+spider	https://freesound.org/people/columbia23/sounds/395395/	
+chestDrop	https://freesound.org/people/stephenbist/sounds/434781/	
+slime Death	https://freesound.org/people/DrMinky/sounds/167074/	
+slime idle	https://freesound.org/people/Lukeo135/sounds/530617/	
+boing	https://freesound.org/people/oganesson/sounds/555014/	
+slime boss	https://freesound.org/people/yottasounds/	
+pot break	https://freesound.org/people/unfa/sounds/221528/	
+bones	https://freesound.org/people/kellyconidi/sounds/218829/	
+throw 	https://freesound.org/people/qubodup/sounds/60013/	
+fireball	https://freesound.org/people/LiamG_SFX/sounds/334234/	
+mageCast	https://freesound.org/people/SypherZent/sounds/420677/	
+mageProjHit	https://freesound.org/people/MATRIXXX_/sounds/523769/	
+dirtStep	https://freesound.org/people/lzmraul/sounds/389454/	
+rockBreak	https://freesound.org/people/Bertsz/sounds/524312/	
+menuMove	https://freesound.org/people/Nightflame/sounds/397599/	
+menuConfirm	https://freesound.org/people/Rob_Marion/sounds/542044/	
+menuCancel	https://freesound.org/people/Kagateni/sounds/571510/	
+enemyFall	https://freesound.org/people/yottasounds/sounds/174465/	
+teleport	https://freesound.org/people/steaq/sounds/560124/	
+reload	https://freesound.org/people/MATRIXXX_/sounds/523649/	
+worm	https://freesound.org/people/VisualPony/sounds/269111/	
+golemSlam	https://freesound.org/people/Hakren/sounds/372877/	

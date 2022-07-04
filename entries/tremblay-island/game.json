@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "CZNmqd.png",
+        "NcSpnU.png",
+        "Elw2BwD.png",
+        "udNOEf.png",
+        "ENVtSi.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Interactive Fiction",
+        "gba-winter-jam-2021"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TremblayIsland_010.2_SS_Francais.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Cinemint",
+    "website": "https://cinemint.itch.io/tremblay-island",
+    "slug": "tremblay-island",
+    "title": "Tremblay Island",
+    "description": "Three Tremblays start a country on an island, what could go wrong?",
+    "platform": "GBA"
+}

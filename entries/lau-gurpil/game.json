@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "PCmI2Fy.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Racing",
+        "gba-winter-jam-2021"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "lau_gurpil.gba",
+            "playable": true
+        }
+    ],
+    "developer": "chickendude",
+    "website": "https://chickendude.itch.io/lau-gurpil",
+    "slug": "lau-gurpil",
+    "title": "Lau Gurpil",
+    "description": "Racing is better with four wheels!",
+    "platform": "GBA"
+}

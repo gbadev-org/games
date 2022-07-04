@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Xs2WVh.png",
+        "UMYlKj.png",
+        "8WqYgf.png",
+        "U2BjwOj.png",
+        "zSLU2BD.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "gba-winter-jam-2021"
+    ],
+    "developer": "RGamesOfficial",
+    "website": "https://rgamesofficial.itch.io/subquest",
+    "slug": "subquest",
+    "title": "SubQuest - The Search for the Virtual Pet",
+    "description": "SubQuest - The Search for the Virtual Pet is an RPG game for the Game Boy Advance.",
+    "platform": "GBA",
+    "files":
+    [
+        {
+            "default": true,
+            "filename": "SubQuest_v1-0-0.gba",
+            "playable": true
+        }
+    ]
+}

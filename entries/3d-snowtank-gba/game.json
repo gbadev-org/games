@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "fy2H0N.png",
+        "6Qmpgc.png",
+        "Y1ux45.png",
+        "uN2BfO.png",
+        "ebKYAQ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gba-winter-jam-2021"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "3D_SnowTank_v1.gba",
+            "playable": true
+        }
+    ],
+    "developer": "3DSage",
+    "website": "https://3dsage.itch.io/3d-snowtank-gba",
+    "slug": "3d-snowtank-gba",
+    "title": "3D SnowTank GBA",
+    "description": "3rd person perspective 3D GBA game!",
+    "platform": "GBA"
+}

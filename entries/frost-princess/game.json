@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "p2FrSS7.png",
+        "s2BDqw.png",
+        "dFYxxj.png",
+        "maakc9.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Strategy",
+        "gba-winter-jam-2021"
+    ],
+    "developer": "squishyfrogs",
+    "website": "https://squishyfrogs.itch.io/frost-princess",
+    "slug": "frost-princess",
+    "title": "Frost Princess (GBA Winter Jam 2021)",
+    "description": "A GBA puzzle card game? I think?",
+    "files": [
+        {
+            "default": true,
+            "filename": "frostprincess.gba",
+            "playable": true
+        }
+    ],
+    "platform": "GBA"
+}

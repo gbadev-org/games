@@ -1,0 +1,29 @@
+{
+    "screenshots":
+    [
+        "cover.png",
+        "qPtIJM.png",
+        "KU4l5Z.png",
+        "iTovhX.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/NotImplementedLife/A-4D-Christmas",
+    "tags":
+    [
+        "Shooter",
+        "gba-winter-jam-2021"
+    ],
+    "files":
+    [
+        {
+            "default": true,
+            "filename": "A-4D-Christmas-0-3.gba",
+            "playable": true
+        }
+    ],
+    "developer": "NotImplementedLife",
+    "website": "https://notimplementedlife.itch.io/a-4d-christmas",
+    "slug": "a-4d-christmas",
+    "title": "A 4D Christmas",
+    "platform": "GBA"
+}

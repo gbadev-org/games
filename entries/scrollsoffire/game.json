@@ -1,0 +1,33 @@
+{
+    "screenshots":
+    [
+        "cover.gif",
+        "MXSWv4.gif",
+        "4yMwLh.gif",
+        "lLTQvL.gif"
+    ],
+    "typetag": "game",
+    "tags":
+    [
+        "Action",
+        "gba-winter-jam-2021"
+    ],
+    "developer":
+    [
+        "akouzoukos",
+        "tempest"
+    ],
+    "website": "https://akouzoukos.itch.io/scrollsoffire",
+    "slug": "scrollsoffire",
+    "title": "Scrolls of Fire",
+    "description": "An original roguelike for the Gameboy Advance (GBA)",
+    "platform": "GBA",
+    "files":
+    [
+        {
+            "default": true,
+            "filename": "mgame.gba",
+            "playable": true
+        }
+    ]
+}

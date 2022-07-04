@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "1xfMW5.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Card Game",
+        "gba-winter-jam-2021"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "warII.gba",
+            "playable": true
+        }
+    ],
+    "developer": "K'miinik",
+    "website": "https://kmiinik.itch.io/warii",
+    "slug": "warii",
+    "title": "WarII",
+    "description": "Unfinished Garbage",
+    "platform": "GBA"
+}

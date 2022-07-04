@@ -10,6 +10,7 @@ path = "../entries/"
 games_list = os.listdir(path)
 
 for game in games_list:
+    print(game)
     with open(f"../entries/{game}/game.json") as f:
         game = json.load(f)
     for file in game["files"]:

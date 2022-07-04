@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "XWYgkB.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Fighting",
+        "gba-winter-jam-2021"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "comboboy-gba-v0,5-indev.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Joeri_R",
+    "website": "https://joeri-r.itch.io/comboboy-v05-gba",
+    "slug": "comboboy-v05-gba",
+    "title": "Comboboy v0.5 GBA",
+    "description": "A singleplayer combo game. Find combos. (still in development)",
+    "platform": "GBA"
+}

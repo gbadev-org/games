@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "AREZjf.png",
+        "OVF63h.png",
+        "iqfDM2.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Puzzle",
+        "RPG",
+        "gba-winter-jam-2021"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ice-skater.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Now Games",
+    "website": "https://jloppnowgames.itch.io/ice-skater",
+    "slug": "ice-skater",
+    "title": "Ice Skater GBA",
+    "description": "Gameboy Advanced game for the GBA Winter Jam 2021",
+    "platform": "GBA"
+}

@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "HdocFU.gif",
+        "aesLZV.png",
+        "mhtVWk.png",
+        "fiwHMH.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gba-winter-jam-2021"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "lro.gba",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "Jono Shields",
+        "tempest"
+    ],
+    "website": "https://foopod.itch.io/lro",
+    "slug": "lro",
+    "title": "LRO - Luggage Retrieval Officer",
+    "description": "Expertly retrieve important luggage that has found it's way onto the wrong flight.",
+    "platform": "GBA"
+}

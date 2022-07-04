@@ -1,17 +1,28 @@
 {
-  "developer": "GValiente",
-  "files": [
-    {
-      "default": true,
-      "filename": "butano-fighter.gba",
-      "playable": true
-    }
-  ],
-  "platform": "GBA",
-  "repository": "https://github.com/GValiente/butano/tree/master/games/butano-fighter",
-  "screenshots": ["1.gif", "2.gif", "3.gif"],
-  "slug": "butano-fighter",
-  "tags": ["Open Source", "Butano", "Shoot em up"],
-  "title": "Butano Fighter",
-  "typetag": "game"
+    "developer": "GValiente",
+    "files":
+    [
+        {
+            "default": true,
+            "filename": "butano-fighter.gba",
+            "playable": true
+        }
+    ],
+    "platform": "GBA",
+    "repository": "https://github.com/GValiente/butano/tree/master/games/butano-fighter",
+    "screenshots":
+    [
+        "1.gif",
+        "2.gif",
+        "3.gif"
+    ],
+    "slug": "butano-fighter",
+    "tags":
+    [
+        "Open Source",
+        "Butano",
+        "Shoot em up"
+    ],
+    "title": "Butano Fighter",
+    "typetag": "game"
 }

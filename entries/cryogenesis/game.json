@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "OSPRsM.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gba-winter-jam-2021"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "cryo.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Rakiex",
+    "website": "https://rakiex.itch.io/cryogenesis",
+    "slug": "cryogenesis",
+    "title": "Cryogenesis",
+    "description": "1% of a game",
+    "platform": "GBA"
+}
