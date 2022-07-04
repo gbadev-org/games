@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "DFvvSA.png",
+        "soPHZ6.png",
+        "9Sd5wK.png",
+        "Sr2FCHC.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "feline.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Jono Shields",
+    "website": "https://foopod.itch.io/feline",
+    "slug": "feline",
+    "title": "Feline",
+    "description": "Ever wondered what its's like to be a cat?",
+    "platform": "GBA"
+}

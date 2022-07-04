@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "6o9K33.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ghost_train_12052021.gba",
+            "playable": true
+        }
+    ],
+    "developer": "brave_orakio",
+    "website": "https://brave-orakio.itch.io/ghost-train",
+    "slug": "ghost-train",
+    "title": "Ghost Train",
+    "description": "3d sound demo on GBA",
+    "platform": "GBA"
+}

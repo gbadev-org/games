@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.jpeg",
+        "K55p8F.png",
+        "hjvO2FX.png",
+        "K8A2BIv.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TimeForTheChickensToGoToSleep.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Chukoloco08",
+    "website": "https://sawyer-ique.itch.io/sawyers-stories-time-for-the-chickens-to-go-to-sleep",
+    "slug": "sawyers-stories-time-for-the-chickens-to-go-to-sleep",
+    "title": "Sawyer's Stories: Time for The Chickens to go to Sleep (Game Boy Advance)",
+    "description": "Watch and read a clucking fun story on the Game Boy Advance!",
+    "platform": "GBA"
+}

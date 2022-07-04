@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "xNK4D2F.gif",
+        "A6xDri.gif",
+        "Arwggi.gif",
+        "pk80UL.gif",
+        "jUcv7y.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GeBurtstAg.gba",
+            "playable": true
+        }
+    ],
+    "developer": "zeichensystem",
+    "website": "https://zeichensystem.itch.io/geburtstag",
+    "slug": "geburtstag",
+    "title": "GeBurtstAg",
+    "description": "Triangles with weird holes in them. Contains depictions of public transport.",
+    "platform": "GBA"
+}

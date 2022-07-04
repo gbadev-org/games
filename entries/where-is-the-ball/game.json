@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "yl2BwHW.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Card Game",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "WhereIsTheBall.gba",
+            "playable": true
+        }
+    ],
+    "developer": "kevin20012",
+    "website": "https://kevin20012.itch.io/where-is-the-ball",
+    "slug": "where-is-the-ball",
+    "title": "Where is the ball",
+    "description": "Game of finding the ball",
+    "platform": "GBA"
+}

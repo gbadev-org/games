@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "gwDKhZ.png",
+        "EX6Gi7.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "advance_demo.gba",
+            "playable": true
+        }
+    ],
+    "developer": "kva64",
+    "date": "2022-06-18T08:47:00",
+    "website": "https://kva64.itch.io/advance-demo-adventures-of-the-math-logic-club",
+    "slug": "advance-demo-adventures-of-the-math-logic-club",
+    "title": "Advance! [Early Demo] Adventures Of The Math & Logic Club",
+    "description": "a tiny kinetic vn demo for gba jam 2021",
+    "platform": "GBA"
+}

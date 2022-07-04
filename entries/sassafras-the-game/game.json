@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "YH3bwk.jpg",
+        "2NoUH8.jpg",
+        "bQdqHS.jpg",
+        "Rztip7.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Adventure",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "STG2.0.gba",
+            "playable": true
+        }
+    ],
+    "developer": "screv69",
+    "website": "https://screv69.itch.io/sassafras-the-game",
+    "slug": "sassafras-the-game",
+    "title": "SASSAFRAS THE GAME",
+    "description": "A platformer, where you make a song. Jump around :)",
+    "platform": "GBA"
+}

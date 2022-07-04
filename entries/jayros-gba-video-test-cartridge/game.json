@@ -1,0 +1,34 @@
+{
+    "screenshots": [
+        "cover.png",
+        "5OOn1f.png",
+        "7KNdph.png",
+        "NfE2I2.png",
+        "ECRK2Fb.png",
+        "oe2Uqc.png",
+        "Gi70EK.png",
+        "2FqDuQh.png",
+        "2BHtavv.png",
+        "XkMlvT.png",
+        "mWOqCD.png",
+        "iMcqrJ.png",
+        "NNlRg1.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Jayros_GBA_VIDEO_Test_Cartridge_v1.0.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Jayro Jones",
+    "website": "https://jayrojones.itch.io/jayros-gba-video-test-cartridge",
+    "slug": "jayros-gba-video-test-cartridge",
+    "title": "Jayro's GBA\u00e2\u0084\u00a2 VIDEO Test Cartridge v1.0",
+    "description": "Test your GBA\u00e2\u0084\u00a2 LCD hardware!",
+    "platform": "GBA"
+}

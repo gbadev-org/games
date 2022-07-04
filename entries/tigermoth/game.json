@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "CJjEcj.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "tigermoth-20210617-beta2.gba",
+            "playable": true
+        }
+    ],
+    "developer": "pmprog",
+    "website": "https://pmprog.itch.io/tigermoth",
+    "slug": "tigermoth",
+    "title": "Tigermoth",
+    "description": "Bullet hell on the GBA",
+    "platform": "GBA"
+}

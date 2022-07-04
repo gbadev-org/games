@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "rAuz8Y.gif",
+        "ecd79K.gif",
+        "4H1fXD.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "necropolis.gba",
+            "playable": true
+        }
+    ],
+    "developer": "jehoz",
+    "website": "https://jehoz.itch.io/necropolis",
+    "slug": "necropolis",
+    "title": "Necropolis",
+    "description": "an undead roguelike for the GBA",
+    "platform": "GBA"
+}

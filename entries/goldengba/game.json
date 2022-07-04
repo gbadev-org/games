@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Ff8BpF.png",
+        "2Fl3FCv.png",
+        "i8fT2Fs.png",
+        "buf2FkY.png",
+        "bPy837.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "Survival",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GoldenGBA_v1.gba",
+            "playable": true
+        }
+    ],
+    "developer": "3DSage",
+    "website": "https://3dsage.itch.io/goldengba",
+    "slug": "goldengba",
+    "title": "GoldenGBA",
+    "description": "A 3D 4 player split screen to compete against enemies on the Game Boy Advance.",
+    "platform": "GBA"
+}

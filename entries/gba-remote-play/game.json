@@ -1,0 +1,16 @@
+{
+    "screenshots": [
+        "cover.png",
+        "InR7qW.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "developer": "[r]labs",
+    "website": "https://r-labs.itch.io/gba-remote-play",
+    "slug": "gba-remote-play",
+    "title": "gba-remote-play demo",
+    "description": "Stream a video (with audio) from one GBA to another one using the Link Cable in Normal Mode",
+    "platform": "GBA"
+}

@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "KjYcCi.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Quantum_Survival_final_version.gba",
+            "playable": true
+        }
+    ],
+    "developer": "LarkSkwared",
+    "website": "https://larkskwared.itch.io/quantum-sruvival",
+    "slug": "quantum-sruvival",
+    "title": "Quantum Survival",
+    "description": "Try to evade the quantum rocks.",
+    "platform": "GBA"
+}

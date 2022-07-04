@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Mt11MH.png",
+        "j6vKlr.png",
+        "ZEoswO.png",
+        "2hy4Cv.png",
+        "wwUBdc.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Reaper.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Greatheart Games",
+    "website": "https://greatheart-games.itch.io/reaper-gba-demake",
+    "slug": "reaper-gba-demake",
+    "title": "Reaper GBA Demake",
+    "description": "Reaper GBA Demake",
+    "platform": "GBA"
+}

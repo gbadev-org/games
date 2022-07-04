@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "FOOT3i.png",
+        "whFNFL.png",
+        "P5TPAB.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "DungeonAdvance.gba",
+            "playable": true
+        }
+    ],
+    "developer": "phi1997",
+    "website": "https://phi1997.itch.io/dungeon-advance",
+    "slug": "dungeon-advance",
+    "title": "Dungeon Advance",
+    "description": "A 2D platform built for GBA using gbsenpai",
+    "platform": "GBA"
+}

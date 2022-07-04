@@ -1,0 +1,19 @@
+{
+    "screenshots": [
+        "cover.png",
+        "foGnfS.png",
+        "aUDJY5.png",
+        "Nv8mSk.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbajam21"
+    ],
+    "developer": "hippydave",
+    "website": "https://hippydave.itch.io/pipespin",
+    "slug": "pipespin",
+    "title": "PipeSpin",
+    "description": "Puzzle game for Game Boy Advance, developed for GBA Jam 2021",
+    "platform": "GBA"
+}

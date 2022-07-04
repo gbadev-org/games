@@ -1,0 +1,23 @@
+A simple 2D platformer. Can you escape the dungeon?
+
+Made using GB Studio 2.0.0beta5. Built for GBA using gbsenpai.
+
+There were going to be enemies, but their movement code bugged when compiled for GBA by gbsenpai, so I removed them.
+
+Controls:
+D-Pad: Move
+A: Read Sign
+B: Jump
+Start: Pause
+
+Resources used:
+Default GB Studio resources
+GB Studio Platformer Tilesets by Elvies
+https://elvies.itch.io/gb-studio-platformer-tilesets
+GB Studio Dungeon Tileset 8x8 by Rekkimaru
+https://rekkimaru.itch.io/gb-studio-dungeon-tileset-8x8
+
+Fonts used in graphics:
+FreeSerif
+Press Start 2P
+Unique

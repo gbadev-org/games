@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "iV8nTF.png",
+        "RUNbch.png",
+        "S2XKtl.png",
+        "Jre12Bs.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "Shooter",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "587SQN.gba",
+            "playable": true
+        }
+    ],
+    "developer": "PogeSoft",
+    "website": "https://pogesoft.itch.io/587-squadron-advance",
+    "slug": "587-squadron-advance",
+    "title": "587 Squadron Advance",
+    "description": "Fly in, hit hard and cover yourself in glory - on a GBA!",
+    "platform": "GBA"
+}

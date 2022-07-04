@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "pB3Fil.png",
+        "yiR8C7.png",
+        "UMfBMM.png",
+        "vubOSm.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Toadally_Awesome_(Jam_Build)_[Unlocked].gba",
+            "playable": true
+        }
+    ],
+    "developer": "squishyfrogs",
+    "website": "https://squishyfrogs.itch.io/toadally-awesome",
+    "slug": "toadally-awesome",
+    "title": "Toadally Awesome Game (GBA Jam 2021)",
+    "description": "A hoppy little puzzle adventure for the Game Boy Advance!",
+    "platform": "GBA"
+}

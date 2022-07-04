@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "rPI1Cu.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Visual Novel",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "covid-adventure_gba-jam-2021.gba",
+            "playable": true
+        }
+    ],
+    "developer": "klomp",
+    "website": "https://klomp.itch.io/covid-adventure",
+    "slug": "covid-adventure",
+    "title": "Covid Adventure",
+    "description": "a lockdown simulator",
+    "platform": "GBA"
+}

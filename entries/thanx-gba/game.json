@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "bw4tcK.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ThanxGBA.gba",
+            "playable": true
+        }
+    ],
+    "developer": "torte00",
+    "website": "https://torte00.itch.io/thanx-gba",
+    "slug": "thanx-gba",
+    "title": "Thanx GBA",
+    "description": "Only a digital postcard to celebrate the 20th anniversary of the GBA",
+    "platform": "GBA"
+}

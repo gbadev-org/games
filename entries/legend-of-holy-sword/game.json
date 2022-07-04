@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "sFi7CC.png",
+        "ignqIP.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "yxjm(2).gba",
+            "playable": true
+        }
+    ],
+    "developer": "Liang Guangyu",
+    "website": "https://liang-guangyu.itch.io/legend-of-holy-sword",
+    "slug": "legend-of-holy-sword",
+    "title": "Legend of holy sword",
+    "description": "a gba game",
+    "platform": "GBA"
+}

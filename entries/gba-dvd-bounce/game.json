@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "3SPx7W.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "gba-dvd.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Hpmason",
+    "website": "https://hpmason.itch.io/gba-dvd-bounce",
+    "slug": "gba-dvd-bounce",
+    "title": "GBA DVD Bounce",
+    "description": "Just a bouncing logo screen saver for your GBA",
+    "platform": "GBA"
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "yj9oGq.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Volleyball.gba",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "Stormplay Games",
+        "Sharkhat"
+    ],
+    "website": "https://stormplay.itch.io/untitled-volleyball-game",
+    "slug": "untitled-volleyball-game",
+    "title": "Untitled Volleyball Game [EARLY PROTOTYPE]",
+    "platform": "GBA"
+}

@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "cNaRyT.png",
+        "m9CL2Bv.png",
+        "YRJKMp.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "MeteoRain.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Dr. Ludos",
+    "website": "https://drludos.itch.io/meteorain-gba-jam-2021",
+    "slug": "meteorain-gba-jam-2021",
+    "title": "MeteoRain (GBA Jam 2021)",
+    "platform": "GBA",
+    "repository": "https://github.com/drludos/meteorain-gba",
+    "license": "MIT"
+}

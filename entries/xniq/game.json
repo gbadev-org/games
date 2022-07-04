@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "cover.png",
+        "I240lS.png",
+        "42FpQtF.png",
+        "aEyGgh.png"
+    ],
+    "typetag": "game",
+    "repository": "https://git.sr.ht/~exelotl/xniq",
+    "gameLicense": "MIT",
+    "tags": [
+        "Puzzle",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "xniq-alpha.gba",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "exelotl",
+        "Rik",
+        "Pyro_Pyro"
+    ],
+    "website": "https://exelotl.itch.io/xniq",
+    "slug": "xniq",
+    "title": "xniq",
+    "description": "a CROSSNIQ clone for the GBA  (alpha)",
+    "platform": "GBA"
+}

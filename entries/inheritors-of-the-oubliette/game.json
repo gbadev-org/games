@@ -1,0 +1,31 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Cd1qJX.png",
+        "eEUwdY.png",
+        "2FKaI0b.png",
+        "bMxz2F2B.png",
+        "HhBiOn.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "inheritors-of-the-oubliette.gba",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "Mahou Shoujo \u00e2\u0098\u0086 Magical Moestar",
+        "one60hp"
+    ],
+    "website": "https://mahoushoujomagicalmoestar.itch.io/inheritors-of-the-oubliette",
+    "slug": "inheritors-of-the-oubliette",
+    "title": "Inheritors of the Oubliette",
+    "description": "Regain a lost legacy in this first-person dungeon crawl RPG for the GameBoy Advance.",
+    "platform": "GBA"
+}

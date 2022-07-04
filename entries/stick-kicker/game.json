@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "UA38uS.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Fighting",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "stick-kicker.gba",
+            "playable": true
+        }
+    ],
+    "developer": "samfromcadott",
+    "website": "https://samfromcadott.itch.io/stick-kicker",
+    "slug": "stick-kicker",
+    "title": "Stick Kicker",
+    "description": "Unfinished Gameboy Advance fighting game",
+    "platform": "GBA"
+}

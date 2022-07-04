@@ -1,0 +1,20 @@
+{
+    "screenshots": [],
+    "typetag": "game",
+    "tags": [
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "One_Line_Drawing(1).gba",
+            "playable": true
+        }
+    ],
+    "developer": "Liang Guangyu",
+    "website": "https://liang-guangyu.itch.io/one-line-draw",
+    "slug": "one-line-draw",
+    "title": "One line draw",
+    "description": "a gba game",
+    "platform": "GBA"
+}

@@ -1,0 +1,17 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "yuM0l2.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "gbajam21"
+    ],
+    "developer": "maciel310",
+    "website": "https://maciel310.itch.io/gba-mmo",
+    "slug": "gba-mmo",
+    "title": "GBA MMO",
+    "description": "The world's first MMO for the GameBoy Advance",
+    "platform": "GBA"
+}

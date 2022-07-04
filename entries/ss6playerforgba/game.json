@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Pbrr29.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Educational",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "character_sample1.gba",
+            "playable": true
+        }
+    ],
+    "developer": "laqieer",
+    "website": "https://laqieer.itch.io/ss6playerforgba",
+    "slug": "ss6playerforgba",
+    "title": "SS6PlayerForGBA",
+    "description": "2D skeletal animation engine demo for GBA",
+    "platform": "GBA"
+}

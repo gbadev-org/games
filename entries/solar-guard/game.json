@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "cover.png",
+        "cVkpdp.png",
+        "xxBs3H.png",
+        "8tfXaP.png",
+        "war4Ay.png",
+        "0dnIBl.png",
+        "rrP5dt.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/Deft-Spade/Solar-Guard",
+    "gameLicense": "GPL-3.0-only",
+    "tags": [
+        "Shooter",
+        "Action",
+        "gbajam21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Solar_Guard_GBA_JAM_2021.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Deft Spade",
+    "website": "https://deft-spade.itch.io/solar-guard",
+    "slug": "solar-guard",
+    "title": "Solar Guard",
+    "description": "A homebrew Game Boy Advance game made for GBA Jam 2021.",
+    "platform": "GBA"
+}

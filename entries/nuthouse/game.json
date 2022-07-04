@@ -1,0 +1,18 @@
+{
+    "screenshots": [
+        "cover.png",
+        "gObblR.png",
+        "v3mVOO.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbajam21"
+    ],
+    "developer": "Gregor M. Cameron",
+    "website": "https://gregor-m-cameron.itch.io/nuthouse",
+    "slug": "nuthouse",
+    "title": "Nuthouse",
+    "description": "War of the Space Hockey pucks",
+    "platform": "GBA"
+}

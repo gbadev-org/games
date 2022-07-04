@@ -1,0 +1,17 @@
+{
+    "screenshots": [
+        "cover.png",
+        "AKx75d.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Racing",
+        "gbajam21"
+    ],
+    "developer": "jenswa",
+    "website": "https://jenswa.itch.io/wrong-road-gba",
+    "slug": "wrong-road-gba",
+    "title": "Wrong Road GBA",
+    "description": "Avoid opposing racers!",
+    "platform": "GBA"
+}
