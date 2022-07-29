@@ -8,6 +8,13 @@
         "Racing",
         "gbajam21"
     ],
+    "files": [
+        {
+            "default": true,
+            "filename": "wrong-road_mb.gba",
+            "playable": true
+        }
+    ],
     "developer": "jenswa",
     "website": "https://jenswa.itch.io/wrong-road-gba",
     "slug": "wrong-road-gba",
