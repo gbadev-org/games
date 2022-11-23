@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "luma_box.jpg",
+        "luma-0.png",
+        "luma-1.png",
+        "luma-2.png",
+        "luma-3.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "Commercial",
+	"Charity"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "luma.gba",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "pmprog",
+        "shallan50k",
+	"maze/dsr"
+    ],
+    "website": "https://pmprog.itch.io/luma-gba",
+    "slug": "luma",
+    "title": "Luma",
+    "description": "Luma is a laser based sliding puzzle game for the GBA. Slide batteries, lasers and mirrors around to light the targets within the given shift count. With 128 levels Luma will keep you occupied for hours and test your puzzling skills to the max. Play in Normal mode and try to complete the levels within a designated number of shifts, and return to where you left off using level codes on each level. Or if you are feeling like a more casual game play in Practice mode to test any of the levels with no shift limits.",
+    "platform": "GBA"
+}
