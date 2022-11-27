@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "qCtYPJ.png",
+        "oYaQU0.png",
+        "0uaxps.png",
+        "yWh5AE.png",
+        "E6PI7l.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Jump_Kid_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "allalonegamez",
+    "website": "https://allalonegamez.itch.io/jump-kid",
+    "slug": "jump-kid",
+    "title": "Jump Kid",
+    "platform": "GBA",
+    "description": "A Hard Platformer."
+}

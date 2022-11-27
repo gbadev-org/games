@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Pw2FngX.png",
+        "eB0ynL.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Survival",
+        "Adventure",
+        "RPG",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GREENMEMORIES_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Tengukaze Studio",
+    "date": "2022-11-08T17:46:00",
+    "website": "https://tengukaze.itch.io/green-memories-gba",
+    "slug": "green-memories-gba",
+    "title": "Green Memories",
+    "platform": "GBA",
+    "description": "GBA Survival RPG"
+}

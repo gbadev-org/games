@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "7vOWma.png",
+        "tRtldv.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "Puzzle",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "HEXES_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Dania Rifki",
+    "date": "2022-10-30T10:59:00",
+    "website": "https://kaleidosium.itch.io/hexes",
+    "slug": "hexes",
+    "title": "HEXES",
+    "platform": "GBA",
+    "description": "The fast-paced puzzle shoot'em up!"
+}

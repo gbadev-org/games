@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Pd2Uxf.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ARushedHackJob_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Pyro_Pyro",
+    "date": "2022-10-31T23:54:00",
+    "website": "https://pyro-pyro.itch.io/a-rushed-hack-job",
+    "slug": "a-rushed-hack-job",
+    "title": "A Rushed Hack Job",
+    "platform": "GBA",
+    "description": "A Last Minute Entry to GBA Jam 2022"
+}

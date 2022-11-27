@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "rI4X9j.png",
+        "Agss5H.png",
+        "3cE9L2B.png",
+        "CAN8YJ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Coin_Fall_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "3DSage",
+    "website": "https://3dsage.itch.io/coin-fall",
+    "slug": "coin-fall",
+    "title": "Coin Fall (GBA Jam 2022)",
+    "platform": "GBA",
+    "description": "A Fall Guys inspired 3D platformer obstacle course for the GBA."
+}

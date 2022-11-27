@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "m6UnvN.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "VideoGameStoryTime",
+    "date": "2022-10-31T23:49:00",
+    "website": "https://videogamestorytime.itch.io/the-enchanted-place",
+    "slug": "the-enchanted-place",
+    "title": "The Enchanted Place",
+    "platform": "GBA",
+    "description": "A visual novel about saying goodbye."
+}

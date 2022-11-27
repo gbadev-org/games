@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "IE6esF.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "notenogram_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "kva64",
+    "date": "2022-10-30T21:37:00",
+    "website": "https://kva64.itch.io/notenogram",
+    "slug": "notenogram",
+    "title": "notenogram",
+    "platform": "GBA",
+    "description": "chill analog-styled agb picross"
+}

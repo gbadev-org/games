@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "kuYvOZ.png",
+        "SylSEi.png",
+        "SwUewP.png",
+        "w4rR4J.png",
+        "kWoEq9.png",
+        "bY82Bn2.png",
+        "Gmt2OD.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "gbajam22"
+    ],
+    "developer": "Lsh0426",
+    "website": "https://lsh0426.itch.io/chocolate-hunter-runa",
+    "slug": "chocolate-hunter-runa",
+    "title": "Chocolate Hunter Runa",
+    "platform": "GBA",
+    "files":
+    [
+        {
+            "default": true,
+            "filename": "chocolate_hunter_runa_jam.gba",
+            "playable": true
+        }
+    ]
+}

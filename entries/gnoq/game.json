@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2F2F8IWH.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Gnoq_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Bergasms",
+    "website": "https://bergasms.itch.io/gnoq",
+    "slug": "gnoq",
+    "title": "gnoq",
+    "platform": "GBA",
+    "description": "GBA Ponglike Game"
+}

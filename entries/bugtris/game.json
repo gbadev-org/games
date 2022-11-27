@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "gCpGkz.png",
+        "2BGqKyk.png",
+        "6sNHNu.png",
+        "nuSoJ5.png",
+        "WXIEar.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/NotImplementedLife/Bugtris",
+    "tags": [
+        "Puzzle",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Bugtris.gba",
+            "playable": true
+        }
+    ],
+    "developer": "NotImplementedLife",
+    "date": "2022-11-17T16:13:00",
+    "website": "https://notimplementedlife.itch.io/bugtris",
+    "slug": "bugtris",
+    "title": "BugTris",
+    "platform": "GBA",
+    "description": "You're taking part in a Tetris clone development as a tester for some nerd cat programmers."
+}

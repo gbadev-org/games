@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "vTRXTJ.png",
+        "yIt3Rd.png",
+        "xShnJV.png",
+        "VRoYXt.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "theAxe_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Maximilian II",
+    "date": "2022-10-29T17:55:00",
+    "website": "https://maximilian-ii.itch.io/the-axe",
+    "slug": "the-axe",
+    "title": "The Axe",
+    "platform": "GBA",
+    "description": "A homebrew minigame for the Game Boy Advance!"
+}

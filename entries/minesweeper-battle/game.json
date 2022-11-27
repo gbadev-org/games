@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Y0IhJh.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "MineSweeperBattle_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Dewbone3",
+    "date": "2022-10-31T22:46:00",
+    "website": "https://dewbone3.itch.io/minesweeper-battle",
+    "slug": "minesweeper-battle",
+    "title": "Minesweeper Battle",
+    "platform": "GBA"
+}

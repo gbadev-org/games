@@ -1,0 +1,31 @@
+{
+    "screenshots": [
+        "cover.png",
+        "z6T6cQ.png",
+        "jwG0dX.png",
+        "y2Frc0c.png",
+        "yL7H0w.png",
+        "5Rq4ZT.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/vayan/collie-defence",
+    "tags": [
+        "Simulation",
+        "gbajam22"
+    ],
+    "developer": "vayan",
+    "date": "2022-11-01T04:31:00",
+    "website": "https://xvayan.itch.io/collie-defence",
+    "slug": "collie-defence",
+    "title": "Collie Defence",
+    "platform": "GBA",
+    "description": "New tower defence game for the Game Boy Advance! Protect your sheep!",
+    "files":
+    [
+        {
+            "default": true,
+            "filename": "collie-defence_jam.gba",
+            "playable": true
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+Song name : Tropical Feels
+Composed by : K. Jose
+Link : https://modarchive.org/module.php?182141
+License : CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/)
+
+Modified to loop song.

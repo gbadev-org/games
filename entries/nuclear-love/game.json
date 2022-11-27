@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "GkICz0.png",
+        "aY6C5h.png",
+        "9Ip9Zt.png",
+        "bMjfcn.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "nuclear-love_fix.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Jono Shields",
+    "date": "2022-10-31T21:59:00",
+    "website": "https://foopod.itch.io/nuclear-love",
+    "slug": "nuclear-love",
+    "title": "Nuclear Love",
+    "platform": "GBA",
+    "description": "A post-apocolyptic dating sim for the GBA"
+}

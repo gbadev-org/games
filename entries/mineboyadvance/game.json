@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "kfI6IF.png",
+        "YuYMLJ.png",
+        "qx6dow.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Survival",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "MineBoyAdvance_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "sulsadood",
+    "date": "2022-10-28T17:04:00",
+    "website": "https://sulsadood.itch.io/mineboyadvance",
+    "slug": "mineboyadvance",
+    "title": "MineBoyAdvance",
+    "platform": "GBA"
+}

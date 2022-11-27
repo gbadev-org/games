@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "LrLbZM.png",
+        "KVrEAa.png",
+        "tNYtYq.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Strategy",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "PATHFINDINGDEMO_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "pyroceper",
+    "date": "2022-10-31T22:51:00",
+    "website": "https://pyroceper.itch.io/pathfinder-demo",
+    "slug": "pathfinder-demo",
+    "title": "Pathfinder Demo",
+    "platform": "GBA",
+    "description": "A WiP tactics game for the GBA"
+}

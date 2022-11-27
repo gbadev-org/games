@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "I9YRRJ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "YALAXY01_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "MysteryStrawberry",
+    "date": "2022-10-31T23:48:00",
+    "website": "https://mysterystrawberry.itch.io/yalaxy01-yearlysis",
+    "slug": "yalaxy01-yearlysis",
+    "title": "YALAXY01-Yearlysis",
+    "platform": "GBA",
+    "description": "boss-rush WIP!"
+}

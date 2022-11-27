@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "zp4lHo.png",
+        "FGnIq0.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "pocket-paint-gbajam2022.gba",
+            "playable": true
+        }
+    ],
+    "developer": "jroatch",
+    "date": "2022-10-30T21:08:00",
+    "website": "https://jroatch.itch.io/pocket-paint-gba",
+    "slug": "pocket-paint-gba",
+    "title": "Pocket Paint",
+    "platform": "GBA",
+    "description": "A simple paint app for the Gameboy Advance"
+}

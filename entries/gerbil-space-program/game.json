@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "gK46k3.png",
+        "q9CzS0.png",
+        "yoKlwl.png",
+        "zG2Fzhz.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Simulation",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GSP_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "n67094",
+    "date": "2022-10-31T23:10:00",
+    "website": "https://n67094.itch.io/gerbil-space-program",
+    "slug": "gerbil-space-program",
+    "title": "Gerbil Space Program",
+    "platform": "GBA"
+}

@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "LZEDoI.png",
+        "R2B3RA.png",
+        "Mji6hR.png",
+        "12BODLJ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "voxelburg_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "nuclear",
+    "date": "2022-10-31T23:43:00",
+    "website": "https://nuclear.itch.io/attack-on-voxelburg",
+    "slug": "attack-on-voxelburg",
+    "title": "Attack on Voxelburg",
+    "platform": "GBA",
+    "description": "GameBoy Advance terrain shooter game for the gbajam22"
+}

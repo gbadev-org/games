@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "8JG2F0.png",
+        "1zu98q.png",
+        "a0qp4x.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "HeroCore.gba",
+            "playable": true
+        }
+    ],
+    "developer": "evanbowman",
+    "date": "2022-10-30T13:47:00",
+    "website": "https://evanbowman.itch.io/hero-core-gba-port",
+    "slug": "hero-core-gba-port",
+    "title": "Hero Core GBA port",
+    "platform": "GBA",
+    "description": "A port of Daniel Remar's Hero Core for GBA"
+}

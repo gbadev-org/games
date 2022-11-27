@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "F2Lmf0.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Simulation",
+        "Adventure",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "VillagersAmbition_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "AtsushiHdez",
+    "date": "2022-10-29T09:05:00",
+    "website": "https://atsushihdez.itch.io/villagers-ambition",
+    "slug": "villagers-ambition",
+    "title": "Villager's Ambition",
+    "platform": "GBA",
+    "description": "A game about gathering resources for the GBA!"
+}

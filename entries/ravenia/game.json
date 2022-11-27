@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "oNkMed.png",
+        "eXIXnX.png",
+        "Lf4jSg.png",
+        "vI1ZSP.png",
+        "Jw5KQW.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Ravenia_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "allalonegamez",
+    "date": "2022-10-31T16:58:00",
+    "website": "https://allalonegamez.itch.io/ravenia",
+    "slug": "ravenia",
+    "title": "Ravenia",
+    "platform": "GBA",
+    "description": "Portal + Sokoban + Demons"
+}

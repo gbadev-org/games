@@ -1,0 +1,34 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2BxsNpU.png",
+        "l47RKA.png",
+        "CqeyZh.png",
+        "PaYUqo.png",
+        "C6Hc3t.png",
+        "ZzICrT.png",
+        "8EV92FJ.png",
+        "BNPooH.png",
+        "J7Xgfn.png",
+        "damFdW.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/NotImplementedLife/GlaciaDungeon",
+    "tags": [
+        "Simulation",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GlaciaDungeon_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "NotImplementedLife",
+    "date": "2022-11-08T05:42:00",
+    "website": "https://notimplementedlife.itch.io/glaciadungeon",
+    "slug": "glaciadungeon",
+    "title": "Glacia Dungeon",
+    "platform": "GBA"
+}

@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "rcHp1d.jpg",
+        "LFq6Ue.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Card Game",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Lane_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "setsquare",
+    "date": "2022-10-31T19:48:00",
+    "website": "https://setsquare.itch.io/lane",
+    "slug": "lane",
+    "title": "Lane",
+    "platform": "GBA",
+    "description": "\u00e2\u0080\u008bA card game about pushing lanes"
+}

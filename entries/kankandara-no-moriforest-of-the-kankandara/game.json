@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "YeWpOU.png",
+        "22Bhdph.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Survival",
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "kankandara_no_mori_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "brave_orakio",
+    "website": "https://brave-orakio.itch.io/kankandara-no-moriforest-of-the-kankandara",
+    "slug": "kankandara-no-moriforest-of-the-kankandara",
+    "title": "Kankandara no Mori(Forest of the Kankandara)",
+    "platform": "GBA",
+    "description": "A short horror game"
+}
