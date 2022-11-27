@@ -11,5 +11,12 @@
     "website": "https://ipatix.itch.io/firemania",
     "slug": "firemania",
     "title": "Firemania",
-    "platform": "GBA"
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "firemania.gba",
+            "playable": true
+        }
+    ]
 }

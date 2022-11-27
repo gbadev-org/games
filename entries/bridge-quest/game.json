@@ -12,5 +12,12 @@
     "website": "https://fixxiefixx.itch.io/bridge-quest",
     "slug": "bridge-quest",
     "title": "Bridge quest",
-    "platform": "GBA"
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "gba_dev_jam_2021.gba",
+            "playable": true
+        }
+    ]
 }
