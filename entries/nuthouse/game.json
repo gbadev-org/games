@@ -14,5 +14,12 @@
     "slug": "nuthouse",
     "title": "Nuthouse",
     "description": "War of the Space Hockey pucks",
-    "platform": "GBA"
+    "platform": "GBA",
+        "files": [
+        {
+            "default": true,
+            "filename": "nuthouse.gba",
+            "playable": true
+        }
+    ]
 }

@@ -15,5 +15,12 @@
     "slug": "pipespin",
     "title": "PipeSpin",
     "description": "Puzzle game for Game Boy Advance, developed for GBA Jam 2021",
-    "platform": "GBA"
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "PipeSpin.gba",
+            "playable": true
+        }
+    ]
 }

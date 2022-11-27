@@ -12,5 +12,6 @@
     "slug": "gba-remote-play",
     "title": "gba-remote-play demo",
     "description": "Stream a video (with audio) from one GBA to another one using the Link Cable in Normal Mode",
-    "platform": "GBA"
+    "platform": "GBA",
+    "files": []
 }

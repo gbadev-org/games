@@ -13,5 +13,12 @@
     "slug": "gba-mmo",
     "title": "GBA MMO",
     "description": "The world's first MMO for the GameBoy Advance",
-    "platform": "GBA"
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "gba_mmo.gba",
+            "playable": true
+        }
+    ]
 }
