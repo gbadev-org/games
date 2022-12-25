@@ -79,6 +79,12 @@
             "format": "date",
             "description": "The date the entry was first released"
         },
+        "last_updated":
+        {
+            "type": "string",
+            "format": "date",
+            "description": "The date the entry was last released"
+        },
         "tags":
         {
             "type": "array",
