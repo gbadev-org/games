@@ -15,5 +15,6 @@
     "title": "SynthGBA",
     "description": "A simple Gameboy Advance sound synth written in assembly. It is essentially an interface to direct access to the GameBoy Advance's sound hardware.",
     "platform": "GBA",
-    "last_updated": "2009/11/02"
+    "last_updated": "2009/11/02",
+    "repository": "https://github.com/Wollw/SynthGBA"
 }
