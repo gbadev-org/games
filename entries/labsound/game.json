@@ -1,0 +1,20 @@
+{
+    "screenshots": [
+        "Labsound2.png"
+    ],
+    "typetag": "homebrew",
+    "files": [
+        {
+            "default": true,
+            "filename": "Labsound.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Karoubi Vincent, Laurent Arnaud",
+    "slug": "labsound",
+    "title": "Lab Sound GBA",
+    "description": "LabSound is a Game Boy Advanced music creation project that aims to awaken the artist in all of us. With a design similar to FL Studio or eJay, it allows you to compose your own sound loops, whether or not accompanied by catchy rhythms. Anyone can produce a complete music of about 2-3 min, utilizing the pre-programmed rhythm machine system and add your own melodies or drum sounds over it.",
+    "platform": "GBA",
+    "last_updated": "2003/07/15",
+    "repository": "https://github.com/Wollw/SynthGBA"
+}
