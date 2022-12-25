@@ -1,0 +1,15 @@
+{
+    "screenshots": [
+    ],
+    "typetag": "homebrew",
+    "files": [
+        {
+            "default": true,
+            "filename": "Looper1.0.gba",
+            "playable": true
+        }
+    ],
+    "slug": "looper",
+    "title": "Looper",
+    "platform": "GBA"
+}
