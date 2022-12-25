@@ -1,0 +1,20 @@
+{
+    "screenshots": [
+        "screen.png"
+    ],
+    "typetag": "homebrew",
+    "files": [
+        {
+            "default": true,
+            "filename": "PocketFlute.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Federico Severi",
+    "website": "http://www.untergrund.net/",
+    "slug": "pocketflute",
+    "title": "PocketFlute",
+    "description": "PocketFlute is a small application made with Ham 2.8 that allows you to play a virtual flute on your GBA, while seeing its music score.",
+    "platform": "GBA",
+    "last_updated": "2005/02/02"
+}
