@@ -1,0 +1,57 @@
+THE DITTY EDITOR PRELIMINARY DOCS
+=================================
+
+The Song Editor
+---------------
+The first screen that is displayed after the title is the song/playorder screen. It is divided into two sections -- songs on the left, and playorder on the right. The songs section defines where each song ends in the playorder. The first song begins at playorder 0, and each each song thereafter begins right after the last one ends. This range is displayed immediately below the section.
+
+Song Editor Keys
+----------------
+D-pad: Select Song
+A: Increment Song End
+B: Decrement Song End
+Start: Menu
+Select: Switch to Playorder Editor
+
+The Song Menu
+--------------
+The menu system is easy to use. The D-pad selects the menu/options, the A button accepts, and the B button cancels. File->Load loads song data from the flash cartridges save RAM, and File->Save saves the current song data to save RAM. File->New erases the current data, but leaves the save RAM intact.
+
+Note: File->Demo doesn't work yet, because I haven't got a good demo to use yet. ;-)
+
+Play plays the current song. Press the L button to slow down playback, or the R button to speed it up. Press Start to end playback and return to the editor.
+
+The Playorder Editor
+--------------------
+The playorder defines the order in which segments are played. The bar at the top of the screen displays the current position.
+
+Playorder Editor Keys
+---------------------
+D-pad: Change Position
+A: Increment Segment #
+B: Decrement Segment #
+L: Insert Segment #
+R: Delete Segment #
+Start: Edit Current Segment
+Select: Return to Song Editor
+
+
+The Segment Editor
+------------------
+The Segment Editor is where the music is actually written, note by note. Each segment can last up to 256 "ticks". Each command is divided into three or more columns. The first column is the tick number at which the command will execute. The second is the command, which can be a note, a hardware setting, or a software effect setting. The rest of the columns are the values for the command. There may be up to three values that can be set. 
+
+Segment Editor Keys
+-------------------
+D-pad Up/Down: Select Command
+D-pad Left/Right: Select Tick #/Command/Value
+A: Increment
+B: Decrement
+L: Insert Command
+R: Delete Command
+Start: Menu
+
+The Segment Menu
+----------------
+The segment menu works the same as the song menu. You can access the file functions from here. You can also set the editor to display only one voice's commands (plus the commands that don't directly affect a particular voice, such as Tempo). Exit returns you to the Playorder Editor.
+
+Note: The Edit menu does not function, yet. ;-)

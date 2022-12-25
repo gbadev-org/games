@@ -1,0 +1,112 @@
+Ditty Editor Commands (v0.2)
+============================
+Note 1, Note 2, Note 3 (C-3 to B-8, RST)
+----------------------------------------
+These commands allow you to play notes on Sound 1, 2, or 3, respectively. The value RST cuts off the previous note, producing a rest.
+
+Note 4 (HIT, RST)
+-----------------
+Sound 4 produces a noise waveform suitable for drums, explosions, etc. It cannot be set to play a particular note, so the only values available are HIT to play sound, and RST to stop the sound.
+
+Slur 1, Slur 2, Slur 3 (C-3 to B-8)
+-----------------------------------
+These commands change the note of the sound currently playing on a particular voice, without "striking" a new note. It is particularly useful when used with the Portamento commands to produce pitch bends and slides.
+
+Sweep 1 (0 to 7) (+ or -) (0 to 7)
+----------------------------------
+The Sound 1 hardware is capable of producing a sweep, where the pitch of the note can rise or fall. This command controls that function.
+
+Note: Due to the fact that the Ditty Player currrently resets the current frequency every jiffy, this feature may not work as expected. You may use Slur and Portamento commands in place of the hardware sweep to produce much more controlable swEneeps.
+
+Envelope 1, Envelope 2, Envelope 3, Envelope 4 (0 to 15) (+ or -) (0 to 7)
+--------------------------------------------------------------------------
+Each sound channel has an envelope to control the volume of the notes. This envelope consists of an initial value, a flag specifying whether the volume rises or falls, and the speed at which the volume changes. The envelopes for Sound 1, 2, and 4 are controlled by the hardware, but for Sound 3 it is simulated in software by the Player.
+
+Duty Cycle 1, Duty Cycle 2 (12%, 25%, 50%, 75%)
+-----------------------------------------------
+The duty cycle controls the shape of the pulse waveform used in Sound 1 and 2. 50% produces a full sound, while 12% is tinny.
+
+Noise Data 4 (0 to F) (7 or F) (0 to 7)
+---------------------------------------
+This is where the register controlling the noise waveform of Sound 4 is set.
+
+Sound Length 1, Sound Length 2, Sound Length 3, Sound Length 4 (0 to 63 [0 to 255 for Sound 3])
+-----------------------------------------------------------------------------------------------
+This sets the length of time for which a channel is to play a note. To use this, the corresponding Continuous command must be set to 0.
+
+Continuous 1, Continuous 2, Continuous 3, Continuous 4 (0 or 1)
+---------------------------------------------------------------
+When used with the Sound Length command, Continuous is set to 0. It is set to 1 if the notes are to play until the next note or rest is reached.
+
+Wave Data 0... Wave Data F (0 to F) (0 to F)
+--------------------------------------------
+Sound 3 has a programmable waveform consisting of 32 steps, and these function allow this waveform to be set, two values at a time. Some examples:
+
+Square waveform:	0 0 0 0 0 0 0 0 F F F F F F F F 0 0 0 0 0 0 0 0 F F F F F F F F
+Sine waveform:		8 B D F F E C A 7 4 2 0 0 1 2 5 8 B D F F E C A 7 4 2 0 0 1 2 5
+Triangle waveform:	8 A C E F D B 9 7 5 3 1 0 2 4 6 8 A C E F D B 9 7 5 3 1 0 2 4 6
+Sawtooth waveform:	0 1 2 3 4 5 6 7 8 9 A B C D E F 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+Detune 1, Detune 2, Detune 3 (-8 to +7)
+---------------------------------------
+This command detunes all notes produced by a sound channel in 1/8 of a half-step increments.
+
+Transpose 1, Transpose 2, Transpose 3 (-40 to +3F)
+--------------------------------------------------
+This command transposes all notes produced by a sound channel.
+
+Arpeggio 1, Arpeggio 2, Arpeggio 3 (0 to F) (0 to F)
+----------------------------------------------------
+This causes a note to fluctuate among three notes -- the original and two transposes. It is a commonly used effect in trackers.
+
+Portamento 1, Portamento 2, Portamento 3 (00 to FF)
+---------------------------------------------------
+The Portamento command causes a smooth slide between the current note and the previous note.
+
+Vibrato 1, Vibrato 2, Vibrato 3 (0 to F) (0 to F)
+-------------------------------------------------
+The Vibrato command causes the pitch of a note to "vibrate". Speeds higher than the depth have no further effect.
+
+Pulse Sweep 1, Pulse Sweep 2 (00 to FF)
+---------------------------------------
+This command causes the value of the Duty Cycle of Sound 1 or 2 to fluctuate, creating an interesting effect.
+
+Volume Sweep 3 (0 to 7F) (+ or -)
+---------------------------------
+Sound 3's output level can be made to fluctuate using this command.
+
+Clock Sweep 4 (00 to 7F) (+ or -)
+---------------------------------
+This command causes the Sound 4 frequency clock to rise or fall when a note is struck.
+
+Ratio Sweep 4 (00 to 7F) (+ or -)
+---------------------------------
+This command causes the Sound 4 dividing ratio frequency to rise or fall when a note is struck.
+
+Step Switch (00 to FF)
+----------------------
+Sound 4 can be set to count 7 or 15 steps. The Step Switch command cause the counter to switch back and forth between the two.
+
+Note Delay 1, Note Delay 2, Note Delay 3, Note Delay 4 (00 to FF)
+-----------------------------------------------------------------
+This causes notes to delay the specified number of jiffies.
+
+Note Cut 1, Note Cut 2, Note Cut 3, Note Cut 4 (00 to FF)
+---------------------------------------------------------
+This causes notes to end after the specified number of jiffies.
+
+Note Retrig 1, Note Retrig 2, Note Retrig 3, Note Retrig 4 (00 to FF)
+---------------------------------------------------------------------
+This command causes notes to be restruck after the specified number of jiffies.
+
+Tempo (00 to FF)
+----------------
+The Tempo is the number of jiffies per tick. I jiffy normally lasts about 1/60 of a second. Setting the Tempo higher causes the Ditty to play more slowly.
+
+User Flag (00 to FF)
+--------------------
+The User Flag allows the Ditty Player to trigger an external event. The user sets a callback function and each time a User Flag command is reached, the callback function is called, passing the value as a parameter to the function.
+
+Next Seg (00 to FF)
+-------------------
+This causes an immediate advance to the next segment in the playorder and jumps to the specified tick within that segment.
