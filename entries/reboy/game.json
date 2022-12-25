@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "ReBoy_v1.0a.png"
+    ],
+    "typetag": "homebrew",
+    "tags": [
+        "Sequencer"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ReBoy.gba",
+            "playable": true
+        }
+    ],
+    "developer": "lsl",
+    "website": "http://www.untergrund.net/",
+    "slug": "reboy",
+    "title": "ReBoy",
+    "description": "A 7 channels, 16step sample based sequencer for the Gameboy Advance.",
+    "platform": "GBA"
+}

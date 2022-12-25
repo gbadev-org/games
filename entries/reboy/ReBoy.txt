@@ -1,0 +1,52 @@
+
+ReBoy v1.0 alpha
+~~~~~~~~~~~~~~~~
+
+What?
+ReBoy is a 7 channels 16 steps sample based sequencer for
+the GameBoy Advance.
+
+You need a Gameboy Advance (not tested with Nintendo DS)
+and a flash-cartridge (I suggest www.flashlinker-shop.de)
+to flash the program on the cart.
+As an alternative you can use a GBA-emulator on PC, f.e.
+VisualBoyAdvance.
+
+This program is freeware - have fun & send some feedback
+to lsl AT quantentunnel DOT de
+
+
+
+keys in the sequencer:
+A ........ select edit item
+B ........ set attack fields according to frequency field
+           (if frequency set -> set attack field)
+L ........ decrease edit field/set unset edit field
+R ........ increase edit field/set unset edit field
+SELECT ... load/save/set bpm menu
+START .... restart at position 1
+
+edit fields:
+------------
+freq frequency of the sample
+attk start sample
+cuto cutoff frequency
+reso resonance
+vol  volume
+pann panning 0..left 100..center 200..right
+dstp delay step
+dfac delay factor
+bitc bitcrunch 0..no crunch 7..max crunch
+spl  sample to be played on channel
+loop loop sample
+
+
+To be done for the next version:
+- possibility for own samples
+- MIDI-IN interface for external knobs (hopefully)
+
+
+Contact:
+http://checkpoint.atari.org
+lsl AT quantentunnel DOT de
+
