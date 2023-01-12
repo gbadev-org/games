@@ -22,5 +22,6 @@
     "slug": "hero-core-gba-port",
     "title": "Hero Core GBA port",
     "platform": "GBA",
-    "description": "A port of Daniel Remar's Hero Core for GBA"
+    "description": "A port of Daniel Remar's Hero Core for GBA",
+    "repository": "https://github.com/evanbowman/Hero-port-gba"
 }
