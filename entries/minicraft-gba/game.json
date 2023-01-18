@@ -1,0 +1,23 @@
+{
+    "title": "Minicraft for GBA",
+    "slug": "minicraft-gba",
+    "developer": "Vulcalien",
+    "repository": "https://github.com/Vulcalien/minicraft-gba",
+    "license": "GPL-3.0-or-later",
+    "platform": "GBA",
+    "typetag": "game",
+    "screenshots": [
+        "cover.png",
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "minicraft.gba",
+            "playable": true
+        }
+    ],
+    "date": "2022-11-19T14:09:56Z"
+}
