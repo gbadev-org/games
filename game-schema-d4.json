@@ -94,6 +94,7 @@
                 "type": "string",
                 "enum":
                 [
+                    "Roguelike",
                     "RPG",
                     "Open Source",
                     "Adventure",
