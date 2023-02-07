@@ -1,0 +1,35 @@
+{
+    "screenshots":
+    [
+        "0rSYyU.png",
+        "E2W8vJ.png",
+        "LfW6N8.png",
+        "SjobdX.png",
+        "tpvV+g.png"
+    ],
+    "typetag": "game",
+    "tags":
+    [
+        "Roguelike"
+    ],
+    "files":
+    [
+        {
+            "default": true,
+            "filename": "main.gba",
+            "playable": true
+        }
+    ],
+    "developer":
+    [
+        "Maksim Jaroslavcevas",
+        "Oskaras Vištorskis",
+        "Aleksandras Šukelovič"
+    ],
+    "repository": "https://github.com/Maksasj/dungeon-master",
+    "website": "https://soskar.itch.io/dungeon-master",
+    "slug": "dungeon-master",
+    "title": "Dungeon Master",
+    "description": "Roguelike game for Game Boy Advance. Your goal is to get out of a dangerous dungeon. Several classes can be chosen to play the game: warrior, wizard, archer.  Each has its own characteristics as well as a pool of items. Will you be able to escape from the dungeon with all classes?",
+    "platform": "GBA"
+}
