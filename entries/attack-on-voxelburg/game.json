@@ -24,5 +24,8 @@
     "slug": "attack-on-voxelburg",
     "title": "Attack on Voxelburg",
     "platform": "GBA",
+    "repository": "https://github.com/MutantStargoat/voxelburg",
+    "video": "https://www.youtube.com/watch?v=zla7kgzgr2w",
+    "license": "GPL-3.0-or-later",
     "description": "GameBoy Advance terrain shooter game for the gbajam22"
 }
