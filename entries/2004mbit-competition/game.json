@@ -1,0 +1,19 @@
+{
+   "slug": "2004mbit-competition",
+   "screenshots": ["screen.png"],
+   "tags": [
+      "2004Mbit"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "2004mbit-competition.gba",
+         "playable": true
+      }
+   ],
+   "title": "2004Mbit Compo Game",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "",
+   "description": "Includes Bengt - Swinger of Longarm, GunKid, Space Gems, Swish-It, Naval Battle, SnackMan, Simonchu 2, YuckFu, GASP, PanzerPanik."
+}
