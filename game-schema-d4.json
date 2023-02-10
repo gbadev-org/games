@@ -94,6 +94,7 @@
                 "type": "string",
                 "enum":
                 [
+                    "2004Mbit",
                     "Roguelike",
                     "RPG",
                     "Open Source",
