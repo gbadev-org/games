@@ -1,0 +1,18 @@
+{
+   "slug": "motus-advance",
+   "screenshots": ["motus_advance_1_1.jpg"],
+   "tags": [
+      "2004Mbit"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "motus-advance.gba",
+         "playable": true
+      }
+   ],
+   "title": "Motus Advance",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Didou"
+}
