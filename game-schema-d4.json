@@ -94,7 +94,8 @@
                 "type": "string",
                 "enum":
                 [
-                    "2004Mbit",
+                    "event:gbax2003",
+		    "2004Mbit",
                     "Roguelike",
                     "RPG",
                     "Open Source",
