@@ -1,0 +1,23 @@
+{
+   "slug": "alpha-wing",
+   "screenshots": [
+      "alpha-wing-0.png",
+      "alpha-wing-1.png",
+      "alpha-wing-2.png"
+   ],
+   "tags": [
+      "event:gbax2003"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "alpha-wing.gba",
+         "playable": true
+      }
+   ],
+   "title": "Alpha Wing",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Jon Wingrove",
+   "description": "Alpha Wing is a top-down space shooter with 360 degree rotation, particle FX & zooming. Alpha Wing uses digital sound FX, and the 4 normal sound channels for stereo music. Alpha Wing has Deathmatch, CTF & survival modes."
+}
