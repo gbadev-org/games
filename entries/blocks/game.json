@@ -1,0 +1,22 @@
+{
+   "slug": "blocks",
+   "screenshots": [
+      "blocks-0.png",
+      "blocks-1.png",
+      "blocks-2.png"
+   ],
+   "tags": [
+      "event:gbax2003"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "blocks.gba",
+         "playable": true
+      }
+   ],
+   "title": "Blocks",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Werner Mendizabal"
+}

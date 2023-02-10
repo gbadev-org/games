@@ -1,0 +1,22 @@
+{
+   "slug": "carbie",
+   "screenshots": [
+      "carbie-0.png",
+      "carbie-1.png",
+      "carbie-2.png"
+   ],
+   "tags": [
+      "event:gbax2003"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "carbie.gba",
+         "playable": true
+      }
+   ],
+   "title": "Carbie",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Pharg"
+}
