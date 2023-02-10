@@ -1,0 +1,22 @@
+{
+   "slug": "beru",
+   "screenshots": [
+      "beru-0.png",
+      "beru-1.png",
+      "beru-2.png"
+   ],
+   "tags": [
+      "event:gbax2003"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "beru.gba",
+         "playable": true
+      }
+   ],
+   "title": "Beru",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Simon 'Saikou' Sibley"
+}

@@ -1,0 +1,22 @@
+{
+   "slug": "battleship",
+   "screenshots": [
+      "battleship-0.png",
+      "battleship-1.png",
+      "battleship-2.png"
+   ],
+   "tags": [
+      "event:gbax2003"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "battleship.gba",
+         "playable": true
+      }
+   ],
+   "title": "BattleShip",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Werner Mendizabal"
+}
