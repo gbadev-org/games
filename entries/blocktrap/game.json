@@ -1,0 +1,18 @@
+{
+   "slug": "blocktrap",
+   "screenshots": ["blocktrap_1_0.jpg"],
+   "tags": [
+      "2004Mbit"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "blocktrap.gba",
+         "playable": true
+      }
+   ],
+   "title": "Blocktrap",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Didou"
+}
