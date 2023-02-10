@@ -1,0 +1,18 @@
+{
+   "slug": "star-fortress",
+   "screenshots": ["starfortress.png"],
+   "tags": [
+      "2004Mbit"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "star-fortress.gba",
+         "playable": true
+      }
+   ],
+   "title": " Star Fortress Dendron",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "ScottLininger"
+}
