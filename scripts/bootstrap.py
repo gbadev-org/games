@@ -7,7 +7,7 @@ os.mkdir('dst')
 
 
 # folder path
-dir_path = r'2004Mbit'
+dir_path = r'GBAX2003'
 
 # list to store files
 res = []
@@ -23,14 +23,14 @@ for path in os.listdir(dir_path):
             shutil.copyfile(f"{dir_path}/{path}", f"{folder}/{slug}.gba")
             game_manifest = {
                     "slug": slug,
-                    "screenshots": [],
-                    "tags": ["2004Mbit"],
+                    "screenshots": [f"{slug}-0.png", f"{slug}-1.png", f"{slug}-2.png"],
+                    "tags": ["event:gbax2003"],
                     "files": [{ 
                                 "default": True,
                                 "filename": f"{slug}.gba",
                                 "playable": True
                                }],
-                    "title": path[:-3],
+                    "title": path[:-4],
                     "platform": "GBA",
                     "typetag": "game",
                     "developer": ""
