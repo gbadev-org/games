@@ -1,0 +1,22 @@
+{
+   "slug": "coin-quest",
+   "screenshots": [
+      "coin-quest-0.png",
+      "coin-quest-1.png",
+      "coin-quest-2.png"
+   ],
+   "tags": [
+      "event:gbax2003"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "coin-quest.gba",
+         "playable": true
+      }
+   ],
+   "title": "Coin Quest",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Scott M."
+}

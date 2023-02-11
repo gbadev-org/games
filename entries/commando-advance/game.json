@@ -1,0 +1,22 @@
+{
+   "slug": "commando-advance",
+   "screenshots": [
+      "commando-advance-0.png",
+      "commando-advance-1.png",
+      "commando-advance-2.png"
+   ],
+   "tags": [
+      "event:gbax2003"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "commando-advance.gba",
+         "playable": true
+      }
+   ],
+   "title": "Commando Advance",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Seagal"
+}

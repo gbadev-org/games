@@ -1,0 +1,21 @@
+{
+   "slug": "chopper",
+   "screenshots": [
+      "chopper-0.png",
+      "chopper-1.png"
+   ],
+   "tags": [
+      "event:gbax2003"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "chopper.gba",
+         "playable": true
+      }
+   ],
+   "title": "Chopper",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "Christian Auby"
+}

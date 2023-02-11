@@ -1,0 +1,22 @@
+{
+   "slug": "dangerous-xmas",
+   "screenshots": [
+      "dangerous-xmas-0.png",
+      "dangerous-xmas-1.png",
+      "dangerous-xmas-2.png"
+   ],
+   "tags": [
+      "event:gbax2003", "Puzzle", "Platform"
+   ],
+   "files": [
+      {
+         "default": true,
+         "filename": "dangerous-xmas.gba",
+         "playable": true
+      }
+   ],
+   "title": "Dangerous Xmas",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "The spoutnick team"
+}
