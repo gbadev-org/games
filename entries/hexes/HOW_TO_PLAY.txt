@@ -1,0 +1,50 @@
+How to Play HEXES
+=================
+
+Controls
+--------
+
+Left and Right Pads - Steer Ship
+
+A - Shoot Bullet
+
+B - Input Modifiers
+
+Start - Pause or Start Game
+
+Objective
+---------
+
+The game's objective is to match the Number in the Center (Known as the Center Number) with the Target Number displayed on top, and later moved to the bottom left-corner. The Center Number is in Hexadecimal and may over-or-under flow (i.e. 255 -> 0 and vice-versa).
+
+You can shoot your Bullets by Pressing A, they are used to hit Enemies and Modifiers. Enemies will give you extra time if you destroy them and there are Enemy varieties.
+
+You are also showered with Modifiers, which consists of Operators (+/-/×/÷/%) and Numbers, that when hit, are stored into the Modifier Slots in the bottom-right corner. If you have stored both Operators and Numbers, You can press B to input and modify the value of the Center Number, You may also overwrite the existing stored Modifiers by simply hitting new ones.
+
+Enemies
+-------
+
+| Square (Blue)
+
+Has 2 HP and gives you 15 extra seconds if hit. Basic projectile type.
+
+| Triangle (Green)
+
+Has 3 HP and gives you 15 extra seconds if hit. Reverses course at random.
+
+| Lozenge
+
+Has 2 HP and gives you 30 extra seconds if hit. Shoots bullets
+
+| Circle
+
+Has 1 HP and gives you 30 extra seconds if hit. Moves fast.
+
+| Pentagon
+
+Has 2 HP and gives you 30 extra seconds if hit. Moves in a curved direction.
+
+Modulo
+------
+
+The % Operator is not percent, but Modulo. It's an operation that returns the remainder of a division on the two numbers.
