@@ -12,10 +12,10 @@ jobs:
           repository: gbadev-org/games
           path: folder/repo
 
-      - name: Set up Python 3.5
+      - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.11.1
+          python-version: 3.11
 
       - name: Install Python dependencies
         run: |
