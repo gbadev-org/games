@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "HyyiYg.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "nightduty.gba",
+            "playable": true
+        }
+    ],
+    "developer": "brave_orakio",
+    "date": "2023-02-25T20:08:00",
+    "website": "https://brave-orakio.itch.io/night-duty",
+    "slug": "night-duty",
+    "title": "Night Duty",
+    "platform": "GBA",
+    "description": "Just a screen... for now."
+}

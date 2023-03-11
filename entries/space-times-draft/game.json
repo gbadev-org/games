@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "tl7JXc.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "space_times_titlescr.gba",
+            "playable": true
+        }
+    ],
+    "developer": "torte00",
+    "date": "2023-02-27T13:16:00",
+    "website": "https://torte00.itch.io/space-times-draft",
+    "slug": "space-times-draft",
+    "title": "Space Times (Titlescreen Demo)",
+    "platform": "GBA",
+    "description": "A title screen demo - GBA-ROM"
+}

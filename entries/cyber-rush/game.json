@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Odzj5z.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "CyberRush.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Pyro_Pyro",
+    "date": "2023-02-28T23:59:00",
+    "website": "https://pyro-pyro.itch.io/cyber-rush",
+    "slug": "cyber-rush",
+    "title": "Cyber Rush",
+    "platform": "GBA"
+}

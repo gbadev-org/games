@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "Wni2Bof.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "wip_titlescreen.gba",
+            "playable": true
+        }
+    ],
+    "developer": "tiredsasha",
+    "date": "2023-02-28T18:30:00",
+    "website": "https://tiredsasha.itch.io/wip-title-screen",
+    "slug": "wip-title-screen",
+    "title": "WIP Title Screen",
+    "platform": "GBA"
+}

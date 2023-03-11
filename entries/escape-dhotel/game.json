@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "9coHYB.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Interactive Fiction",
+        "Adventure",
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "EscapeDHotelAdvance.gba",
+            "playable": true
+        }
+    ],
+    "developer": "E-Vinyl",
+    "date": "2023-02-27T18:53:00",
+    "website": "https://e-vinyl.itch.io/escape-dhotel",
+    "slug": "escape-dhotel",
+    "title": "Escape D'Hotel",
+    "platform": "GBA"
+}

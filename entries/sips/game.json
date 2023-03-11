@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Lj12m0.jpg",
+        "1sfmWR.png",
+        "Vft2B2FA.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Simulation",
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "sips.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Jono Shields",
+    "date": "2023-02-22T08:05:00",
+    "website": "https://foopod.itch.io/sips",
+    "slug": "sips",
+    "title": "Sips",
+    "platform": "GBA",
+    "description": "A short cafe idle game for the GBA"
+}

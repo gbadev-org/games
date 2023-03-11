@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "FDl4y2F.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Educational",
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "outtree.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Schmoogin",
+    "date": "2023-02-28T02:23:00",
+    "website": "https://schmoogin.itch.io/the-tree-outside-my-window",
+    "slug": "the-tree-outside-my-window",
+    "title": "The Tree Outside My Window",
+    "platform": "GBA",
+    "description": "There's a tree outside my window and this is what it looks like."
+}

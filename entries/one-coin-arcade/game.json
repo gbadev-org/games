@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "U9Ho2FF.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "onecoinarcade.gba",
+            "playable": true
+        }
+    ],
+    "developer": "kva64",
+    "date": "2023-02-28T03:06:00",
+    "website": "https://kva64.itch.io/one-coin-arcade",
+    "slug": "one-coin-arcade",
+    "title": "One Coin Arcade",
+    "platform": "GBA",
+    "description": "retro arcade collectathon prototype"
+}

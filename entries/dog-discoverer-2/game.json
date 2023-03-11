@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "lXHcb2.png",
+        "2F6uzlA.png",
+        "DxF2B0X.png",
+        "oPN1SM.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "DogDiscoverer2.gba",
+            "playable": true
+        }
+    ],
+    "developer": "e9",
+    "date": "2023-02-27T05:05:00",
+    "website": "https://e9-gba.itch.io/dog-discoverer-2",
+    "slug": "dog-discoverer-2",
+    "title": "Dog Discoverer 2",
+    "platform": "GBA",
+    "description": "Find your furry friend and get outta there! [GBA]"
+}

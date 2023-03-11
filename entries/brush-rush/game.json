@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "y2FV2s.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Strategy",
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "BrushRush.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Doug T",
+    "date": "2023-02-22T13:39:00",
+    "website": "https://juzek.itch.io/brush-rush",
+    "slug": "brush-rush",
+    "title": "Brush Rush",
+    "platform": "GBA",
+    "description": "Card-based Territory Control Tactics Game for GBA"
+}

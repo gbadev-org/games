@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "byH4ER.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "coquiman.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Nikku4211",
+    "date": "2023-02-22T21:02:00",
+    "website": "https://nikku4211.itch.io/coquiman",
+    "slug": "coquiman",
+    "title": "Coquiman",
+    "platform": "GBA",
+    "description": "Title screen for grappling game."
+}

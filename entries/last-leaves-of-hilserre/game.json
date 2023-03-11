@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "e2BHMSz.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "LastLeaves.gba",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "chickendude",
+        "bmalumphy"
+    ],
+    "date": "2023-02-27T23:15:00",
+    "website": "https://chickendude.itch.io/last-leaves-of-hilserre",
+    "slug": "last-leaves-of-hilserre",
+    "title": "Last Leaves of Hilserre",
+    "platform": "GBA"
+}

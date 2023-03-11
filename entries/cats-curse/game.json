@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "uItjP8.gif",
+        "qaihLH.png",
+        "37lc8P.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/EsotericDevZone/Cat-s-Curse",
+    "tags": [
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Cat-s-Curse.gba",
+            "playable": true
+        }
+    ],
+    "developer": "NotImplementedLife",
+    "date": "2023-02-18T18:32:00",
+    "website": "https://notimplementedlife.itch.io/cats-curse",
+    "slug": "cats-curse",
+    "title": "Cat's Curse",
+    "platform": "GBA",
+    "description": "Entry for GBA Winter Jam '23. Only the title screen matters."
+}

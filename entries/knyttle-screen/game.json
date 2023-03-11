@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2FuWO03.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbawinterjam23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "knyttle_screen.gba",
+            "playable": true
+        }
+    ],
+    "developer": "exelotl",
+    "date": "2023-02-28T23:56:00",
+    "website": "https://exelotl.itch.io/knyttle-screen",
+    "slug": "knyttle-screen",
+    "title": "Knyttle Screen",
+    "platform": "GBA",
+    "description": "It's just the title screen from \"Knytt Stories\""
+}
