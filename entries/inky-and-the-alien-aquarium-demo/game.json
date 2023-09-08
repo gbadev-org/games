@@ -1,0 +1,30 @@
+{
+    "developer": "Pocket Pulp LLC",
+    "files":
+    [
+        {
+            "default": true,
+            "filename": "InkyAndTheAlienAquariumDEMO.gba",
+            "playable": true
+        }
+    ],
+    "platform": "GBA",
+    "screenshots":
+    [
+        "1.gif",
+        "2.gif",
+        "3.gif"
+    ],
+    "slug": "inky-and-the-alien-aquarium-demo",
+    "tags":
+    [
+        "Puzzle"
+    ],
+    "title": "Inky and the Alien Aquarium DEMO",
+    "typetag": "game",
+    "description": "Help Inky escape captivity by solving block pushing puzzles. Demo of full game.",
+    "video": "https://www.youtube.com/watch?v=0K83BgUEJj0",
+    "gameWebsite": "https://pulp.biz/",
+    "devWebsite": "https://pulp.biz/",
+    "onlineplay": true
+}
