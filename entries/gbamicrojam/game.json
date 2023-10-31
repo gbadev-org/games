@@ -1,0 +1,26 @@
+{
+   "slug": "gbamicrojam23",
+   "screenshots": [
+      "VM2sR.png",
+      "TvW4CW.png",
+      "eCE3My.png",
+      "etn_4_.png",
+      "+x0pM_.png",
+      "OUQgtM.png"
+   ],
+   "tags": [],
+   "files": [
+      {
+         "default": true,
+         "filename": "microjam23.gba",
+         "playable": true
+      }
+   ],
+   "title": "GBA Microjam '23 game",
+   "platform": "GBA",
+   "typetag": "game",
+   "developer": "gba microjam '23 contributors",
+   "description": "Trick or treat! The GBA Microjam '23 is a spooky microgame collection for the Game Boy Advance created by the members of the gbadev.net community. If you've played WarioWare you'll know what to expect! (If you haven't... then heck, why not download it anyway and see what it's all about!?). This project was a huge collaboration which we've never tried before, and we're super happy with how it turned out! With almost 30 microgames included, there's plenty to surprise you and keep you on your toes. Huge congrats to everyone who took part. We hope you had fun!",
+   "website": "https://gbadev.itch.io/gba-microjam-23",
+   "repository": "https://github.com/gbadev-org/microjam23"
+}
