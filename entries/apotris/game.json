@@ -18,7 +18,7 @@
         "akouzoukos"
     ],
     "website": "https://akouzoukos.com/apotris",
-    "repository": "https://github.com/akouzoukos/apotris",
+    "repository": "https://gitea.com/akouzoukos/apotris",
     "slug": "apotris",
     "title": "Apotris",
     "description": "A Block Stacking Game for the GBA",
