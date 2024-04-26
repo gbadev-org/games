@@ -13,10 +13,7 @@
         "Open Source",
         "Puzzle"
     ],
-    "developer":
-    [
-        "akouzoukos"
-    ],
+    "developer": "akouzoukos",
     "website": "https://akouzoukos.com/apotris",
     "repository": "https://gitea.com/akouzoukos/apotris",
     "slug": "apotris",
