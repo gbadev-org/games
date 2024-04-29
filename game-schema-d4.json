@@ -55,7 +55,8 @@
                 "homebrew",
                 "demo",
                 "hackrom",
-                "music"
+                "music",
+                "tool",
             ]
         },
         "gameLicense":
