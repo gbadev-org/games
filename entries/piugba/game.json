@@ -1,0 +1,33 @@
+{
+    "slug": "piugba",
+    "tags": [
+        "Open Source",
+        "Action"
+    ],
+    "title": "piuGBA (demo)",
+    "description": "A Pump It Up simulator for the GBA that plays SSC charts from StepMania",
+    "typetag": "game",
+    "platform": "GBA",
+    "developer": "Afska",
+    "website": "https://discord.com/invite/JE33cc2",
+    "devWebsite": "https://r-labs.io",
+    "license": "MIT",
+    "files": [
+        {
+            "default": true,
+            "filename": "piuGBA_v1.10.0_demo.gba",
+            "playable": true
+        }
+    ],
+    "screenshots": [
+        "cover.gif",
+        "1.gif",
+        "2.gif",
+        "3.gif",
+        "4.gif",
+        "5.gif"
+    ],
+    "video": "https://www.youtube.com/watch?v=S8VgSOcHs5A",
+    "repository": "https://github.com/afska/piugba",
+    "date": "2020-08-30"
+}
