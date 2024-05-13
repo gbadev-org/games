@@ -20,12 +20,13 @@
         }
     ],
     "developer": [
-        "Mahou Shoujo \u00e2\u0098\u0086 Magical Moestar",
+        "Mahou Shoujo ☆ Magical Moestar",
         "one60hp"
     ],
     "website": "https://mahoushoujomagicalmoestar.itch.io/inheritors-of-the-oubliette",
     "slug": "inheritors-of-the-oubliette",
     "title": "Inheritors of the Oubliette",
     "description": "Regain a lost legacy in this first-person dungeon crawl RPG for the GameBoy Advance.",
-    "platform": "GBA"
+    "platform": "GBA",
+    "source": "https://github.com/DrLancer-X/inheritors-of-the-oubliette"
 }

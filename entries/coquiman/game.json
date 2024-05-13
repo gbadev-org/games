@@ -20,5 +20,6 @@
     "slug": "coquiman",
     "title": "Coquiman",
     "platform": "GBA",
-    "description": "Title screen for grappling game."
+    "description": "Title screen for grappling game.",
+    "repository": "https://github.com/pmprog/coquiman_jam/"
 }

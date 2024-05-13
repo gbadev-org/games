@@ -55,7 +55,8 @@
                 "homebrew",
                 "demo",
                 "hackrom",
-                "music"
+                "music",
+                "tool"
             ]
         },
         "gameLicense":
@@ -95,7 +96,8 @@
                 "enum":
                 [
                     "event:gbax2003",
-		    "2004Mbit",
+                    "event:gbawinterjam23",
+                    "2004Mbit",
                     "Roguelike",
                     "RPG",
                     "Open Source",

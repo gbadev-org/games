@@ -24,5 +24,6 @@
     "slug": "dog-discoverer-2",
     "title": "Dog Discoverer 2",
     "platform": "GBA",
-    "description": "Find your furry friend and get outta there! [GBA]"
+    "description": "Find your furry friend and get outta there! [GBA]",
+    "repository": "https://github.com/e97kj48/gba-tantalus/tree/pettin"
 }

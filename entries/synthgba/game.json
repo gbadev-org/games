@@ -2,7 +2,7 @@
     "screenshots": [
         "Synthgba2.png"
     ],
-    "typetag": "homebrew",
+    "typetag": "tool",
     "files": [
         {
             "default": true,

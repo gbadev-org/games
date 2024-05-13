@@ -2,7 +2,7 @@
     "screenshots": [
         "screen.png"
     ],
-    "typetag": "homebrew",
+    "typetag": "tool",
     "files": [
         {
             "default": true,

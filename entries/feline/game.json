@@ -23,5 +23,6 @@
     "slug": "feline",
     "title": "Feline",
     "description": "Ever wondered what its's like to be a cat?",
-    "platform": "GBA"
+    "platform": "GBA",
+    "repository": "https://github.com/foopod/gbaGamejam2021"
 }

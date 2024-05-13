@@ -23,5 +23,6 @@
     "slug": "sips",
     "title": "Sips",
     "platform": "GBA",
-    "description": "A short cafe idle game for the GBA"
+    "description": "A short cafe idle game for the GBA",
+    "repository": "https://github.com/foopod/title"
 }

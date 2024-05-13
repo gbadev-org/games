@@ -20,5 +20,6 @@
     "slug": "one-coin-arcade",
     "title": "One Coin Arcade",
     "platform": "GBA",
-    "description": "retro arcade collectathon prototype"
+    "description": "retro arcade collectathon prototype",
+    "repository": "https://notabug.org/lv10groove/oca"
 }
