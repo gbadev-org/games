@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "jam22invitro-0.png"
+    ],
+    "typetag": "demo",
+    "tags": [
+        "gbajam22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "jam22invitro.gba",
+            "playable": true
+        }
+    ],
+    "developer": ["pmprog", "Jono Shields", "GValiente", "exelotl", "avivace"],
+    "date": "2022-07-30T22:03:00",
+    "website": "https://pmprog.itch.io/gbajam22invitro",
+    "slug": "gbajam22invitro",
+    "title": "GBA Jam 2022 Invitro",
+    "platform": "GBA",
+    "description": "GBA demo inviting you to the GBA Jam 2022"
+}
