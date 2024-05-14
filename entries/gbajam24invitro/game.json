@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "gbajam24invitro-0.png"
+    ],
+    "typetag": "demo",
+    "tags": [
+        "event:gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "gbajam24invitro.gba",
+            "playable": true
+        },
+        {
+            "filename": "licenses.txt",
+            "playable": false
+        }
+    ],
+    "developer": ["PyroPyro", "kva64", "exelotl"],
+    "date": "2024-05-12T00:48:00",
+    "website": "https://gbadev.itch.io/gbajam24invitro",
+    "slug": "gbajam24invitro",
+    "title": "GBA Jam 2024 Invitro",
+    "platform": "GBA",
+    "description": "Your invitation to the GBA Jam 2024!"
+}
