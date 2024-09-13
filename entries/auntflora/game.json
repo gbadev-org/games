@@ -1,0 +1,27 @@
+{
+    "developer": "Pocket Pulp LLC",
+    "files":
+    [
+        {
+            "default": true,
+            "filename": "AuntFlorasMansion.gba",
+            "playable": true
+        }
+    ],
+    "platform": "GBA",
+    "screenshots":
+    [
+        "1.gif"
+    ],
+    "slug": "auntflora",
+    "tags":
+    [
+        "Puzzle"
+    ],
+    "title": "Aunt Flora's Mansion (GBA Port)",
+    "typetag": "game",
+    "description": "Aunt Flora has invited you to tea, but getting to her is going to be a challenge! You must push aside her things and weave your way through her mansion in this block-pushing puzzle game, based on the original by anna anthropy.",
+    "gameWebsite": "https://pocket-pulp.itch.io/aunt-floras-mansion-gba-port",
+    "devWebsite": "https://pulp.biz/",
+    "onlineplay": true
+}
