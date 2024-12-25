@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "Christmas_demo_2024.png"
+    ],
+    "typetag": "demo",
+    "tags": [
+        "Open Source",
+        "3D"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Christmas_demo_2024.gba",
+            "playable": true
+        }
+    ],
+    "developer": "ravity^slr",
+    "date": "2024-12-24T15:57:00",
+    "slug": "secret_santa_2024",
+    "title": "2024 Christmas demo",
+    "platform": "GBA",
+    "repository": "https://github.com/nkeetels/secret_santa_2024",
+    "description": "A small Christmas demo hacked together in a couple of days for the GBA community."
+}
