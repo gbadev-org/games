@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "aereven-advance-cover.png",
+        "aereven-advance-0.png",
+        "aereven-advance-1.png",
+        "aereven-advance-2.png",
+        "aereven-advance-3.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "Adventure",
+        "event:gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "aereven-advance.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Dreamnoid",
+    "date": "2024-07-31",
+    "website": "https://dreamnoid.itch.io/aereven-advance",
+    "slug": "aereven-advance",
+    "title": "Aereven Advance",
+    "platform": "GBA",
+    "description": "Aereven Advance is a brand new action-adventure game for the Game Boy Advance!"
+}
