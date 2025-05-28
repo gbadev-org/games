@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "bump-dev_hammer-smasher",
+    "title": "Hammer Smasher",
+    "screenshots": [
+        "cover.png",
+        "screenshots/4JsxP4.png",
+        "screenshots/hWhyjj.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Survival",
+        "Arena",
+        "Butano",
+        "2D"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/hammer-smasher.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Bump Dev",
+    "website": "https://bump-dev.itch.io/hammer-smasher"
+}
