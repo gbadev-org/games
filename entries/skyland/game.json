@@ -5,14 +5,14 @@
             "default": true,
             "filename": "Skyland.gba",
             "hash": {
-                "md5": "e4cb9e6400645e7ddd55005e5013a804",
-                "sha1": "d8996aa4f6c7c7be5f0eec3df5466c717a3d5a95",
-                "sha256": "f5f27fa1e01fc27a24f8c831b749ba5f1c8c04a3b05e9a98a1bd9bea72cef93e"
+                "md5": "498882021ae28f6c5e3d453509d4e6c8",
+                "sha1": "6c5eba5faf9a54c4af05ecd6c1fbfaf9be0417e3",
+                "sha256": "01c0a4fd2fe56e7563f84b3be4b61331f1cace98c8392f14e2a53fd5d9f34784"
             },
             "playable": true
         }
     ],
-    "license": "MIT",
+    "license": "Custom",
     "platform": "GBA",
     "repository": "https://github.com/evanbowman/skyland",
     "screenshots": [
