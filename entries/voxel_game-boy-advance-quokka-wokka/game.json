@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "voxel_game-boy-advance-quokka-wokka",
+    "title": "(Game Boy Advance) Quokka Wokka",
+    "screenshots": [
+        "cover.png",
+        "screenshots/6TNPzA.png",
+        "screenshots/izFdkJ.png",
+        "screenshots/IV2piP.png",
+        "screenshots/45okmb.png",
+        "screenshots/T%2F0EGG.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Simple",
+        "Cute",
+        "Arcade",
+        "Retro",
+        "Platformer",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/quokka-wokka_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "voxel",
+    "website": "https://voxel.itch.io/game-boy-advance-quokka-wokka"
+}

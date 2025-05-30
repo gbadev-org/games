@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "gronis93_project-pag",
+    "title": "Project: PAG - Tech Demo",
+    "screenshots": [
+        "cover.png",
+        "screenshots/TXvMOS.png",
+        "screenshots/W7uVee.png",
+        "screenshots/aq6IQP.png",
+        "screenshots/8cmoOo.png",
+        "screenshots/Rpfzqg.png",
+        "screenshots/yltk2I.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Puzzle",
+        "Adventure",
+        "Action",
+        "Action-Adventure",
+        "Pixel Art",
+        "Top-Down",
+        "Retro",
+        "Top Down Adventure",
+        "Fantasy",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Project_PAG_Jam24_v0.1.1.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Gronis93",
+    "website": "https://gronis93.itch.io/project-pag"
+}

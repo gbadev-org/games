@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "wanderinghobo_forever-rpg",
+    "title": "Forever RPG",
+    "screenshots": [
+        "cover.png",
+        "screenshots/JUjdJN.png",
+        "screenshots/hvtH3m.png",
+        "screenshots/fI8DJa.png",
+        "screenshots/NZIqFf.png",
+        "screenshots/pylklB.png",
+        "screenshots/nhFJl%2B.png",
+        "screenshots/JUULmQ.png",
+        "screenshots/LFxL8X.png",
+        "screenshots/YveC4I.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Role Playing",
+        "Roguelite",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/ForeverRPG_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Matt Carr",
+    "website": "https://wanderinghobo.itch.io/forever-rpg"
+}

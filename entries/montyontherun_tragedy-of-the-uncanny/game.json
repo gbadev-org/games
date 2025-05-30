@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "montyontherun_tragedy-of-the-uncanny",
+    "title": "Tragedy of the Uncanny",
+    "screenshots": [
+        "cover.png",
+        "screenshots/5WdLtT.png",
+        "screenshots/zyCg5i.png",
+        "screenshots/ytb9qz.png",
+        "screenshots/MKG5CL.png",
+        "screenshots/2DejNg.jpg",
+        "screenshots/rg8E98.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Adventure",
+        "Role Playing",
+        "Homebrew",
+        "First-Person",
+        "MS-DOS",
+        "Dungeon Crawler",
+        "3D",
+        "maemo",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/tragedy_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Daniel \"MontyOnTheRun\" Monteiro",
+    "website": "https://montyontherun.itch.io/tragedy-of-the-uncanny"
+}

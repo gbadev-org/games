@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "jenkalab_toll-runner",
+    "title": "Toll Runner",
+    "screenshots": [
+        "cover.gif",
+        "screenshots/egc%2FUD.jpg",
+        "screenshots/L1Ftn%2B.jpg",
+        "screenshots/CHLPli.jpg",
+        "screenshots/6mEDsV.jpg",
+        "screenshots/Lq7vTN.jpg",
+        "screenshots/KyXs1t.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "Homebrew",
+        "Pixel Art",
+        "Runner",
+        "Retro",
+        "2D",
+        "Indie",
+        "16-bit",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/tollrunner-demo2.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Jenka Lab",
+    "website": "https://jenkalab.itch.io/toll-runner"
+}

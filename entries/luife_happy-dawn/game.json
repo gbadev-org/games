@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "luife_happy-dawn",
+    "title": "Happy Dawn",
+    "screenshots": [
+        "cover.png",
+        "screenshots/dUtOha.png",
+        "screenshots/nfuySI.png",
+        "screenshots/nH%2BXlY.png",
+        "screenshots/yQ8Spc.png",
+        "screenshots/zcp%2FDJ.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Adventure",
+        "2D",
+        "Pixel Art",
+        "Undertale",
+        "GBJam",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/HappyDawn_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Luife",
+    "website": "https://luife.itch.io/happy-dawn"
+}

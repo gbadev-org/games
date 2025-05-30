@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "jeffzzq_work-life",
+    "title": "Work Life",
+    "screenshots": [
+        "cover.png",
+        "screenshots/9FLptM.png",
+        "screenshots/fiCLQd.png",
+        "screenshots/e8G7i3.png",
+        "screenshots/zsT4po.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "repository": "https://github.com/jgensler8/work-life-game",
+    "tags": [
+        "Pixel Art",
+        "Visual Novel",
+        "Retro",
+        "Story Rich",
+        "Dating Sim",
+        "Relaxing",
+        "Working Simulator",
+        "Cute",
+        "Anime",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Work_Life_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "jeffzzq",
+    "website": "https://jeffzzq.itch.io/work-life"
+}

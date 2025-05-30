@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "gordonshamway23_zenf",
+    "title": "ZenF",
+    "screenshots": [
+        "cover.png",
+        "screenshots/0hgBab.png",
+        "screenshots/9V3XvU.png",
+        "screenshots/yRbhAh.png",
+        "screenshots/tNoLxU.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Puzzle",
+        "2D",
+        "Relaxing",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/ZenF_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://gordonshamway23.itch.io/zenf"
+}

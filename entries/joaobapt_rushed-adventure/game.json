@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "joaobapt_rushed-adventure",
+    "title": "Rushed Adventure!",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Dvdbaw.png",
+        "screenshots/uIVm%2F7.png",
+        "screenshots/2C2M2C.png",
+        "screenshots/e8qsGX.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Adventure",
+        "2D",
+        "Pixel Art",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/rushed_adventure_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Jo\u00e3o Baptista",
+    "website": "https://joaobapt.itch.io/rushed-adventure"
+}

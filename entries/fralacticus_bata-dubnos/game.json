@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "fralacticus_bata-dubnos",
+    "title": "Bata Dubnos",
+    "screenshots": [
+        "cover.png",
+        "screenshots/ZX8SiU.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Bata_Dubnos_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Fralacticus",
+    "website": "https://fralacticus.itch.io/bata-dubnos"
+}

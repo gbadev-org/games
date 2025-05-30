@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "nicolejorn_sook",
+    "title": "Sook",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Interactive Fiction",
+        "2D",
+        "Pixel Art",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/sook_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "nicolejorn",
+    "website": "https://nicolejorn.itch.io/sook"
+}

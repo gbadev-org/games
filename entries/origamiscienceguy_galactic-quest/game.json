@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "origamiscienceguy_galactic-quest",
+    "title": "Galactic Quest",
+    "screenshots": [
+        "cover.png",
+        "screenshots/mVM6nJ.png",
+        "screenshots/%2BNl4p5.png",
+        "screenshots/%2Bint22.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "repository": "https://github.com/origamiscienceguy/Galactic_Quest",
+    "gameLicense": "GNU General Public License v3.0 (GPL)",
+    "tags": [
+        "Turn-based Strategy",
+        "Retro",
+        "Strategy",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Galactic_Quest_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "origamiscienceguy",
+    "website": "https://origamiscienceguy.itch.io/galactic-quest"
+}

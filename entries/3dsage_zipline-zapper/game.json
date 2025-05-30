@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "3dsage_zipline-zapper",
+    "title": "Zipline Zapper",
+    "screenshots": [
+        "cover.png",
+        "screenshots/l395P9.png",
+        "screenshots/mhOtpe.png",
+        "screenshots/sndg0Y.png",
+        "screenshots/LdC5%2FB.png",
+        "screenshots/JBLbxs.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "Doom",
+        "Retro",
+        "Shooter",
+        "3D",
+        "FPS",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Zipline_Zapper-3DSage_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "3DSage",
+    "website": "https://3dsage.itch.io/zipline-zapper"
+}

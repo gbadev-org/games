@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "dippy0615_gba-grand-prix",
+    "title": "GBA Grand Prix",
+    "screenshots": [
+        "cover.png",
+        "screenshots/oPbOzn.png",
+        "screenshots/zjXNRU.png",
+        "screenshots/e3Nhme.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Racing",
+        "Short",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GBAGrandPrix_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Dippy0615",
+    "website": "https://dippy0615.itch.io/gba-grand-prix"
+}

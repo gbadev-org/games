@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "fixxiefixx_space-evangelion",
+    "title": "Space Evangelion",
+    "screenshots": [
+        "cover.png",
+        "screenshots/0U%2FMOW.png",
+        "screenshots/AIabqz.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Shooter",
+        "Side Scroller",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Space Evangelion_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "fixxiefixx",
+    "website": "https://fixxiefixx.itch.io/space-evangelion"
+}

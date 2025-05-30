@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "menaced_gba-survivors",
+    "title": "GBA Survivors",
+    "screenshots": [
+        "cover.png",
+        "screenshots/qCPJmr.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "Pixel Art",
+        "GBJam",
+        "2D",
+        "gbajam",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Survivors.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Menaced",
+    "website": "https://menaced.itch.io/gba-survivors"
+}

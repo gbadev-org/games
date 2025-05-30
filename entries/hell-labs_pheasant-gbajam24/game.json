@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "hell-labs_pheasant-gbajam24",
+    "title": "Getting Around It with Pheasant Birdy",
+    "screenshots": [
+        "cover.png",
+        "screenshots/1VoDP%2B.gif",
+        "screenshots/d6cxyj.gif",
+        "screenshots/sID4Av.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Puzzle-Platformer",
+        "Platformer",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/pheasant_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://hell-labs.itch.io/pheasant-gbajam24"
+}

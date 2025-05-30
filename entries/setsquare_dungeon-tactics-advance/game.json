@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "setsquare_dungeon-tactics-advance",
+    "title": "Dungeon Tactics Advance",
+    "screenshots": [
+        "cover.png",
+        "screenshots/fnn%2Bb3.png",
+        "screenshots/beixZB.png",
+        "screenshots/4aPueq.png",
+        "screenshots/OGVvf7.png",
+        "screenshots/u%2Fwqw%2F.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Retro",
+        "Strategy",
+        "Pixel Art",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/dungeon-tactics-advance.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://setsquare.itch.io/dungeon-tactics-advance"
+}

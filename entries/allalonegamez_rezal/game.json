@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "allalonegamez_rezal",
+    "title": "Rezal",
+    "screenshots": [
+        "cover.png",
+        "screenshots/nyURzB.png",
+        "screenshots/vf62RM.png",
+        "screenshots/7MZmlq.png",
+        "screenshots/NBk%2FDQ.png",
+        "screenshots/xeHhua.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Puzzle",
+        "Sokoban",
+        "game-boy",
+        "gbstudio",
+        "logic",
+        "analogue-pocket",
+        "16-bit",
+        "gb-studio",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "allalonegamez",
+    "website": "https://allalonegamez.itch.io/rezal"
+}

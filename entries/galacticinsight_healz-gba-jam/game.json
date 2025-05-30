@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "galacticinsight_healz-gba-jam",
+    "title": "Healz_gba_jam",
+    "screenshots": [
+        "cover.png",
+        "screenshots/OmKcy2.png",
+        "screenshots/Ue%2FGWz.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Adventure",
+        "Survival",
+        "Dungeon Crawler",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Healz_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "GalacticInsight",
+    "website": "https://galacticinsight.itch.io/healz-gba-jam"
+}

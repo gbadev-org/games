@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "eragnarok_detective-monroe-murder-at-sea",
+    "title": "Detective Monroe: Murder at Sea",
+    "screenshots": [
+        "cover.png",
+        "screenshots/TCH5bL.png",
+        "screenshots/qb10XZ.png",
+        "screenshots/DPS0Xi.png",
+        "screenshots/Nby%2BDW.png",
+        "screenshots/mZkael.png",
+        "screenshots/kGuDRL.png",
+        "screenshots/5HBR%2FH.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Adventure",
+        "2D",
+        "Mystery",
+        "Story Rich",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/detective_monroe_murder_at_sea_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://eragnarok.itch.io/detective-monroe-murder-at-sea"
+}

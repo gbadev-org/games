@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "drkylstein_syscrusher",
+    "title": "Sys*Crusher",
+    "screenshots": [
+        "cover.png",
+        "screenshots/WAv8BR.png",
+        "screenshots/5c3AP3.png",
+        "screenshots/pyIXmh.png",
+        "screenshots/bxfiUO.png",
+        "screenshots/hzCJLO.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "Roguelite",
+        "Top-Down",
+        "Retro",
+        "Top down shooter",
+        "2D",
+        "Shooter",
+        "Hacking",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/syscrusher_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "OutOfSync",
+    "website": "https://drkylstein.itch.io/syscrusher"
+}

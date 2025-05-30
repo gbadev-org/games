@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "fighter19_ninja-tower",
+    "title": "Ninja Tower (Gameboy Advance)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/nMq%2BPz.png",
+        "screenshots/%2Fs%2FGDd.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Pixel Art",
+        "Sprites",
+        "Arcade",
+        "Retro",
+        "Platformer",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/tower_game_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Fighter19",
+    "website": "https://fighter19.itch.io/ninja-tower"
+}

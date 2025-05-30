@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "colonelsalt_zoink",
+    "title": "World of Zoink",
+    "screenshots": [
+        "cover.png",
+        "screenshots/y4KPwM.png",
+        "screenshots/Ml3jH2.png",
+        "screenshots/m3PSJE.png",
+        "screenshots/zkKBw2.png",
+        "screenshots/VF4DQi.png",
+        "screenshots/UWmwPa.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Puzzle",
+        "Role Playing",
+        "Pixel Art",
+        "Top-Down",
+        "JRPG",
+        "Creepy",
+        "Comedy",
+        "Retro",
+        "Short",
+        "2D",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/WorldOfZoink_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Sondre Agledahl",
+    "website": "https://colonelsalt.itch.io/zoink"
+}

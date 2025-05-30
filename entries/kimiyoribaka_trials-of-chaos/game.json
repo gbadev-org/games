@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "kimiyoribaka_trials-of-chaos",
+    "title": "Trials of Chaos",
+    "screenshots": [
+        "cover.png",
+        "screenshots/fbQOZH.png",
+        "screenshots/J%2FRIHd.png",
+        "screenshots/zsAGx4.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action-Adventure",
+        "hololive",
+        "Homebrew",
+        "Fangame",
+        "Retro",
+        "2D",
+        "Cute",
+        "Platformer",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/chaos.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Colin EUMP",
+    "website": "https://kimiyoribaka.itch.io/trials-of-chaos"
+}

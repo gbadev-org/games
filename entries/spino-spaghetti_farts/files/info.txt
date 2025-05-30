@@ -1,0 +1,6 @@
+FARTS
+
+The idea is just to move your face around the screen and produce farts. You stay alive until you do not collide completely with a single fart. Your score is determined by the number of farts you produced.
+When you lose, the game restarts, maintaining the highest score on top of the screen.
+Most of these basic features are not implemented well or even not present, for now.
+Thank you for your time.

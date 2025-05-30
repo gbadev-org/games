@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "90soft90_wreckage",
+    "title": "Wreckage",
+    "screenshots": [
+        "cover.png",
+        "screenshots/9lTy07.png",
+        "screenshots/PX%2Fine.png",
+        "screenshots/8xAscv.png",
+        "screenshots/L%2BVmkx.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Role Playing",
+        "Roguelite",
+        "2D",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/wreckage_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "90soft90",
+    "website": "https://90soft90.itch.io/wreckage"
+}

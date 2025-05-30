@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "krnlyng_magicboy-advance",
+    "title": "MagicBoy Advance",
+    "screenshots": [
+        "cover.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "counter",
+        "tcg",
+        "life-counter",
+        "Magic",
+        "Card Game",
+        "life",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/magicboy-advance.gba",
+            "playable": true
+        }
+    ],
+    "developer": "krnlyng",
+    "website": "https://krnlyng.itch.io/magicboy-advance"
+}

@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "tardigrade-nx_discrete-orange",
+    "title": "Discrete Orange",
+    "screenshots": [
+        "cover.png",
+        "screenshots/RLUH1N.png",
+        "screenshots/Vygxyy.png",
+        "screenshots/IxJupC.png",
+        "screenshots/1JzM%2BH.png",
+        "screenshots/NMkU1q.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Singleplayer",
+        "Colorful",
+        "Homebrew",
+        "Pixel Art",
+        "2D",
+        "Puzzle-Platformer",
+        "16-bit",
+        "Cute",
+        "Platformer",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Discrete Orange (v0.1b).gba",
+            "playable": true
+        }
+    ],
+    "developer": "Tardigrade",
+    "website": "https://tardigrade-nx.itch.io/discrete-orange"
+}

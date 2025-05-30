@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "tjlb_gba-bounce-dungeon",
+    "title": "GBA Game Jam: Bounce Dungeon",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "Retro",
+        "pong",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Bounce-Dungeon_Jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "TJLB",
+    "website": "https://tjlb.itch.io/gba-bounce-dungeon"
+}

@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "klokpack6ix_gamepack6ix",
+    "title": "GamePack6ix",
+    "screenshots": [
+        "cover.png",
+        "screenshots/6RUAkJ.png",
+        "screenshots/tN4kRJ.png",
+        "screenshots/CuMecG.png",
+        "screenshots/0cqQk9.png",
+        "screenshots/j4ngPx.png",
+        "screenshots/YD1mVW.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/gamepack6ix_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "klokpack6ix",
+    "website": "https://klokpack6ix.itch.io/gamepack6ix"
+}

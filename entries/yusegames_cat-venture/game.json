@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "yusegames_cat-venture",
+    "title": "Cat-venture",
+    "screenshots": [
+        "cover.png",
+        "screenshots/MGCeD7.png",
+        "screenshots/QkbC6R.png",
+        "screenshots/0rb5%2Fx.png",
+        "screenshots/LNCjt6.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Adventure",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Catventure_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "YuSe",
+    "website": "https://yusegames.itch.io/cat-venture"
+}

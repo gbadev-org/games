@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "albafg_life-and-adventures-of-buscon-de-tormes",
+    "title": "Life and Adventures of Busc\u00f3n de Tormes",
+    "screenshots": [
+        "cover.png",
+        "screenshots/8YcV2d.png",
+        "screenshots/vXPN%2BN.png",
+        "screenshots/sGLE%2Fg.png",
+        "screenshots/eVoCGV.png",
+        "screenshots/dQumxz.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Adventure",
+        "Action",
+        "Pixel Art",
+        "Story Rich",
+        "Book Based",
+        "2D",
+        "Metroidvania",
+        "Platformer",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Buscon_de_Tormes.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://albafg.itch.io/life-and-adventures-of-buscon-de-tormes"
+}

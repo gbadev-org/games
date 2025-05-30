@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "bump-dev_rolling-eggs",
+    "title": "Rolling Eggs",
+    "screenshots": [
+        "cover.gif",
+        "screenshots/v7Yr%2Bz.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Experimental",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/rolling-eggs_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Bump Dev",
+    "website": "https://bump-dev.itch.io/rolling-eggs"
+}

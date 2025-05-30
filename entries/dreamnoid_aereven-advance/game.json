@@ -1,0 +1,41 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "dreamnoid_aereven-advance",
+    "title": "Aereven Advance",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/%2Fc%2Bade.png",
+        "screenshots/QzMTqr.png",
+        "screenshots/xz6v9M.png",
+        "screenshots/taBWMa.png",
+        "screenshots/DZfUlE.png",
+        "screenshots/ZuifNL.png",
+        "screenshots/2POpdc.png",
+        "screenshots/CGyYcT.png",
+        "screenshots/oKrH52.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "Action-Adventure",
+        "Singleplayer",
+        "Homebrew",
+        "Pixel Art",
+        "Top-Down",
+        "zelda",
+        "2D",
+        "Exploration",
+        "Fantasy",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/AerevenAdvance_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Dreamnoid",
+    "website": "https://dreamnoid.itch.io/aereven-advance"
+}

@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "cubellia_cheesychords",
+    "title": "CHEESYchords",
+    "screenshots": [
+        "cover.png",
+        "screenshots/9gZJ1z.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Soundtoy",
+        "Music Production",
+        "Music",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/CHEESYchords_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://cubellia.itch.io/cheesychords"
+}

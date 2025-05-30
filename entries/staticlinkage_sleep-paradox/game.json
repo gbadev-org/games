@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "staticlinkage_sleep-paradox",
+    "title": "Sleep Paradox",
+    "screenshots": [
+        "cover.png",
+        "screenshots/X%2Bfow2.png",
+        "screenshots/1gkamm.png",
+        "screenshots/dWxZuS.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "Role Playing",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SleepParadox_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://staticlinkage.itch.io/sleep-paradox"
+}

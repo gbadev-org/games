@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "xerokimo_gba-cnake",
+    "title": "GBA Cnake++",
+    "screenshots": [
+        "cover.png",
+        "screenshots/GPDNQK.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Cnakepp.gba",
+            "playable": true
+        }
+    ],
+    "developer": "XeroKimo",
+    "website": "https://xerokimo.itch.io/gba-cnake"
+}

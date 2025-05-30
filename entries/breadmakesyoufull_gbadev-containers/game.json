@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "breadmakesyoufull_gbadev-containers",
+    "title": "GBADEV Containers",
+    "screenshots": [
+        "cover.png",
+        "screenshots/fq5C4v.jpg",
+        "screenshots/r1Xhmu.png",
+        "screenshots/UCHUBe.png",
+        "screenshots/%2BqBkfJ.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "repository": "https://github.com/BreadMakesYouFull/gbadev-containers",
+    "gameLicense": "zlib License",
+    "tags": [
+        "Homebrew",
+        "demo",
+        "Educational",
+        "butano",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/gbadev-containers_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "BreadMakesYouFull",
+    "website": "https://breadmakesyoufull.itch.io/gbadev-containers"
+}

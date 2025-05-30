@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "axxxxe_hex-advance",
+    "title": "Hex Advance",
+    "screenshots": [
+        "cover.png",
+        "screenshots/J0o1%2BP.png",
+        "screenshots/x5jOu0.png",
+        "screenshots/ygIbtD.png",
+        "screenshots/%2Brazeh.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Puzzle",
+        "Hex Based",
+        "Board Game",
+        "Retro",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Hex_Advance_0.3_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Ax",
+    "website": "https://axxxxe.itch.io/hex-advance"
+}

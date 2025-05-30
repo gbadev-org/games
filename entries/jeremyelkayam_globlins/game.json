@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "jeremyelkayam_globlins",
+    "title": "Globlins!",
+    "screenshots": [
+        "cover.png",
+        "screenshots/solSwU.png",
+        "screenshots/anSvnN.png",
+        "screenshots/jhgamY.png",
+        "screenshots/J9d0Un.png",
+        "screenshots/3HXCEw.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "repository": "https://github.com/jeremyelkayam/gbajam24",
+    "tags": [
+        "Singleplayer",
+        "Pixel Art",
+        "Action RPG",
+        "Mechs",
+        "Platformer",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GLOBLINS_MAGDEMO_JAN23.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Jeremy Elkayam",
+    "website": "https://jeremyelkayam.itch.io/globlins"
+}

@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "afska_beat-beast",
+    "title": "BeatBeast",
+    "screenshots": [
+        "cover.gif",
+        "screenshots/4GGZMp.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "repository": "https://github.com/afska/beat-beast",
+    "gameLicense": "MIT License",
+    "tags": [
+        "Rhythm",
+        "Boss battle",
+        "Shooter",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/BeatBeast_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://afska.itch.io/beat-beast"
+}

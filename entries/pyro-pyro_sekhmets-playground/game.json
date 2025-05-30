@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "pyro-pyro_sekhmets-playground",
+    "title": "Sekhmet's Playground",
+    "screenshots": [
+        "cover.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "Pixel Art",
+        "Endless",
+        "Arcade",
+        "Aliens",
+        "Retro",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SekhmetsPlayground_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://pyro-pyro.itch.io/sekhmets-playground"
+}

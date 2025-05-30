@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "songoku2000_bumper-neko-arena",
+    "title": "Bumper Neko Arena",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Racing",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/bumper_neko_arena.gba",
+            "playable": true
+        }
+    ],
+    "developer": "SonGoku2000",
+    "website": "https://songoku2000.itch.io/bumper-neko-arena"
+}

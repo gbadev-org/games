@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "issung_gematrix",
+    "title": "GEMATRIX",
+    "screenshots": [
+        "cover.png",
+        "screenshots/X%2F1Isg.png",
+        "screenshots/AsDSTL.png",
+        "screenshots/%2F0NOpH.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Puzzle",
+        "gbajam",
+        "Time Attack",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GematrixV1_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Issung",
+    "website": "https://issung.itch.io/gematrix"
+}

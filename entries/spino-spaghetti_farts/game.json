@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "spino-spaghetti_farts",
+    "title": "Farts",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/farts_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Spino Spaghetti",
+    "website": "https://spino-spaghetti.itch.io/farts"
+}

@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "pyrochromeitch_raiseapet",
+    "title": "Raise A Pet",
+    "screenshots": [
+        "cover.png",
+        "screenshots/eUhW8l.png",
+        "screenshots/yGYGR5.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Virtual Pet",
+        "2D",
+        "Pixel Art",
+        "Simulation",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/RaiseAPet_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Pyrochrome@itch",
+    "website": "https://pyrochromeitch.itch.io/raiseapet"
+}

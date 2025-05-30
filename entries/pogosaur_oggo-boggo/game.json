@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "pogosaur_oggo-boggo",
+    "title": "Oggo Boggo",
+    "screenshots": [
+        "cover.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/oggoboggo_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Pogosaur",
+    "website": "https://pogosaur.itch.io/oggo-boggo"
+}

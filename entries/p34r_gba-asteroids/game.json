@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "p34r_gba-asteroids",
+    "title": "GBA Asteroids",
+    "screenshots": [
+        "cover.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Action",
+        "Space",
+        "Asteroids",
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/asteroids_jam.gba",
+            "playable": true
+        }
+    ],
+    "developer": "p34r",
+    "website": "https://p34r.itch.io/gba-asteroids"
+}

@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "valconiglio_map-gen",
+    "title": "Map Gen GBA",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "gbajam24"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/tanks.gba",
+            "playable": true
+        }
+    ],
+    "developer": "valconiglio",
+    "website": "https://valconiglio.itch.io/map-gen"
+}
