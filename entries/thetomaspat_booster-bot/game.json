@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "thetomaspat_booster-bot",
+    "title": "Booster_Bot",
+    "screenshots": [
+        "cover.png",
+        "screenshots/hkRrpM.png",
+        "screenshots/jRw39B.png",
+        "screenshots/vGch%2B2.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Flappy Bird",
+        "Retro",
+        "Action",
+        "2D",
+        "Pixel Art",
+        "Short",
+        "gbawinterjam25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Booster_Bot.gba",
+            "playable": true
+        }
+    ],
+    "developer": "TheTomasPat",
+    "website": "https://thetomaspat.itch.io/booster-bot"
+}

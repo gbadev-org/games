@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "songoku2000_butano-traduction-converter",
+    "title": "Butano traduction converter",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "gbawinterjam25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/traduction_tool_example.gba",
+            "playable": true
+        }
+    ],
+    "developer": "SonGoku2000",
+    "website": "https://songoku2000.itch.io/butano-traduction-converter"
+}

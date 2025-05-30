@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "cereal-fiend_gba-jam-demo-dapoborage",
+    "title": "Dapoborage (GBA Winter Jam 2025)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/zI0srS.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Platformer",
+        "gbawinterjam25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/gba1.gba",
+            "playable": true
+        }
+    ],
+    "developer": "cereal fiend",
+    "website": "https://cereal-fiend.itch.io/gba-jam-demo-dapoborage"
+}

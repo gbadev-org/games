@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "jeremyelkayam_trogba",
+    "title": "Trogdor for Game Boy Advance",
+    "screenshots": [
+        "cover.png",
+        "screenshots/iyQSuA.png",
+        "screenshots/XqR6By.gif",
+        "screenshots/ZPuTC7.png",
+        "screenshots/aOLYR3.png",
+        "screenshots/9JHmh2.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "repository": "http://github.com/jeremyelkayam/trogba",
+    "gameLicense": "MIT License",
+    "tags": [
+        "trogdor",
+        "videlectrix",
+        "Open Source",
+        "strong-bad",
+        "Fangame",
+        "Arcade",
+        "Retro",
+        "Action",
+        "homestar-runner",
+        "gbawinterjam25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/trogba.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Jeremy Elkayam",
+    "website": "https://jeremyelkayam.itch.io/trogba"
+}

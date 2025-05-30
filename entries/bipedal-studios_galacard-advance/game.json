@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "bipedal-studios_galacard-advance",
+    "title": "Galacard Advance",
+    "screenshots": [
+        "cover.png",
+        "screenshots/UUI290.png",
+        "screenshots/NduphR.png",
+        "screenshots/sWFJXV.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Homebrew",
+        "Space",
+        "Aliens",
+        "Strategy",
+        "Retro",
+        "Pixel Art",
+        "Card Game",
+        "gbawinterjam25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Galacard_Advance.gba",
+            "playable": true
+        }
+    ],
+    "developer": "Bipedal Studios",
+    "website": "https://bipedal-studios.itch.io/galacard-advance"
+}

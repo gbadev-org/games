@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "frzit_google-dino-advance",
+    "title": "Google Dino Advance",
+    "screenshots": [
+        "cover.png",
+        "screenshots/FelH%2B5.png",
+        "screenshots/3sATzm.png",
+        "screenshots/8Gjn%2BT.png",
+        "screenshots/pkw2ei.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "Homebrew",
+        "Demake",
+        "infinite-runner",
+        "Retro",
+        "gbawinterjam25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Google-Dino-Advance.gba",
+            "playable": true
+        }
+    ],
+    "developer": "frzit",
+    "website": "https://frzit.itch.io/google-dino-advance"
+}
