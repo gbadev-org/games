@@ -8,12 +8,7 @@
     "typetag": "game",
     "platform": "GBA",
     "tags": [
-        "counter",
-        "tcg",
-        "life-counter",
-        "Magic",
         "Card Game",
-        "life",
         "event:gbajam24"
     ],
     "files": [

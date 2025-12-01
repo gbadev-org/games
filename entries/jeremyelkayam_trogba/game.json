@@ -13,17 +13,13 @@
     "typetag": "game",
     "platform": "GBA",
     "repository": "http://github.com/jeremyelkayam/trogba",
-    "gameLicense": "MIT License",
+    "gameLicense": "MIT",
     "tags": [
-        "trogdor",
-        "videlectrix",
         "Open Source",
-        "strong-bad",
         "Fangame",
         "Arcade",
         "Retro",
         "Action",
-        "homestar-runner",
         "gbawinterjam25"
     ],
     "files": [

@@ -11,7 +11,7 @@
     "typetag": "game",
     "platform": "GBA",
     "repository": "https://github.com/origamiscienceguy/Galactic_Quest",
-    "gameLicense": "GNU General Public License v3.0 (GPL)",
+    "gameLicense": "GPL-3.0-only",
     "tags": [
         "Turn-based Strategy",
         "Retro",

@@ -12,12 +12,11 @@
     "typetag": "game",
     "platform": "GBA",
     "repository": "https://github.com/BreadMakesYouFull/gbadev-containers",
-    "gameLicense": "zlib License",
+    "gameLicense": "Zlib",
     "tags": [
-        "Homebrew",
         "demo",
         "Educational",
-        "butano",
+        "Butano",
         "event:gbajam24"
     ],
     "files": [
