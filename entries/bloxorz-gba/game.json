@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+	"description": "A complete port of the classic flash game Bloxorz",
+	"video": "https://www.youtube.com/watch?v=onh-U_qIPCM",
+	"website": "https://nostabyte.itch.io/bloxorzgba",
+	"developer": "Nostabyte Interactive",
+	"files": [
+		{
+			"default": true,
+			"filename": "bloxorz.gba",
+			"playable": true
+		}
+	],
+	"platform": "GBA",
+	"repository": "https://github.com/jacobcoughenour/bloxorz_gba",
+	"screenshots": [
+		"cover.png",
+		"screen1.png",
+		"screen2.png"
+	],
+	"slug": "bloxorz-gba",
+	"tags": [
+		"Puzzle",
+		"Open Source",
+		"Butano"
+	],
+	"title": "BLOXORZ.gba",
+	"typetag": "game"
+}
