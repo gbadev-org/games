@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "camo-swan_english-tea-racing",
+    "title": "English Tea Racing GBA",
+    "screenshots": [
+        "cover.png",
+        "screenshots/uJacb3.png",
+        "screenshots/rHNAol.png",
+        "screenshots/SoJwgL.png",
+        "screenshots/rW6D7w.png",
+        "screenshots/Iz6YtH.png",
+        "screenshots/Iy32ca.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "tags": [
+        "3D",
+        "Racing"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/English_tea_racing.gba",
+            "playable": true
+        }
+    ],
+    "developer": "camo_swan",
+    "website": "https://camo-swan.itch.io/english-tea-racing"
+}
