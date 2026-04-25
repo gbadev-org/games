@@ -1,8 +1,10 @@
-# Homebrew Hub GBA games database
+# Homebrew Hub - GBA games database
 
-JSON and Assets database of all the GBA games and homebrew entries on [Homebrew Hub](https://hh.gbdev.io). Propose here additions, improvements and fixes.
-This repository is similar to the [GB database](https://github.com/gbdev/database) one, but aims to include **GBA** games.
+JSON and asset database for **Game Boy Advance** homebrew entries on [Homebrew Hub](https://hh.gbdev.io). This is one of several platform-specific database repositories that feed Homebrew Hub - see the [full list of databases](https://github.com/gbdev/homebrewhub/blob/main/DATABASES.md).
 
+Propose additions, improvements, and fixes to the entries metadata values (and the releases) here.
+
+[![Schema compliance](https://github.com/gbadev-org/games/actions/workflows/test.yml/badge.svg)](https://github.com/gbadev-org/games/actions/workflows/test.yml)
 
 ## Contribute
 
@@ -14,7 +16,7 @@ There are also a lot of websites and blogs with a lot of ROMs, we are writing sc
 
 ## License
 
-The *Homebrew Hub* project is licensed under the GPLv3 license. 
+The *Homebrew Hub* project is licensed under the GPLv3 license.
 
 Each game, homebrew, demo and their related asset, file, screenshot or source code is released under different license terms and copyright holders. Please refer to the single entries for details.
 
