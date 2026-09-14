@@ -1,0 +1,26 @@
+{
+    "developer": "Giorgio Pomettini, Noemi Frulio, MattiX017",
+    "files": [
+        {
+            "default": true,
+            "filename": "pliko.gba",
+            "playable": true
+        }
+    ],
+    "platform": "GBA",
+    "screenshots": [
+        "cover.png",
+        "screenshot-1.png",
+        "screenshot-2.png",
+        "screenshot-3.png"
+    ],
+    "slug": "pliko",
+    "tags": [
+        "Action"
+    ],
+    "title": "Pliko",
+    "typetag": "game",
+    "wip": true,
+    "website": "https://pomettini.itch.io/pliko-gba-port",
+    "description": "A fast-paced reflex game where you press the correct buttons in sequence to match the portal shown on screen, guiding the hero Pliko through dimensional portals to defeat evil and save the village. This is a Game Boy Advance port of the original PC game, made for the HYPLAY Indie Galactic #2 game jam."
+}
