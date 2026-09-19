@@ -6,7 +6,7 @@ from jsonschema import validate
 import json
 import os, sys
 
-with open("../game-schema-d4.json") as f:
+with open("../game-schema-d5.json") as f:
     schema = json.load(f)
 
 path = "../entries/"
