@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "copyrat90_mimiclime",
+    "title": "mimiclime",
+    "screenshots": [
+        "cover.png",
+        "screenshots/8gBet2F2.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/game.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "gbajam",
+        "adventure",
+        "gbajam2026",
+        "event:gbajam26"
+    ],
+    "developer": "copyrat90",
+    "website": "https://copyrat90.itch.io/mimiclime"
+}
