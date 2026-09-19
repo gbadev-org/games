@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "6teloiv_hive-keepers-advance",
+    "title": "Hive Keepers Advance",
+    "screenshots": [
+        "cover.png",
+        "screenshots/oudJ3O.gif",
+        "screenshots/2eZ5AX.gif",
+        "screenshots/X8k7oK.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/HIVE_KEEPERS_ADVANCE_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "no ai",
+        "strategy",
+        "tower defense",
+        "event:gbajam26"
+    ],
+    "developer": [
+        "6TELOIV",
+        "Akisako"
+    ],
+    "website": "https://6teloiv.itch.io/hive-keepers-advance"
+}

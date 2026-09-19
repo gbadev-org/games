@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "zegalur_noonlight-paradox",
+    "title": "Noonlight Paradox",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/WPXRIK.gif",
+        "screenshots/2BSEGR4.gif",
+        "screenshots/C5k39w.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/noonlight_paradox_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "platformer",
+        "open source",
+        "2d",
+        "metroidvania",
+        "event:gbajam26"
+    ],
+    "developer": "zegalur",
+    "website": "https://zegalur.itch.io/noonlight-paradox"
+}

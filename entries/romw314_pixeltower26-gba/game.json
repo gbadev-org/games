@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "romw314_pixeltower26-gba",
+    "title": "Pixel Tower 26",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/pixel-tower-26.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "platformer",
+        "event:gbajam26"
+    ],
+    "developer": "romw314",
+    "website": "https://romw314.itch.io/pixeltower26-gba"
+}

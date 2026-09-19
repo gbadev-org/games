@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "viidev_elementary",
+    "title": "Elementary",
+    "screenshots": [
+        "cover.png",
+        "screenshots/4gtFvW.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/elementary_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "puzzle",
+        "event:gbajam26"
+    ],
+    "developer": "veebs",
+    "website": "https://viidev.itch.io/elementary"
+}

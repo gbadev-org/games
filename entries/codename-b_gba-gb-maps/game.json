@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "codename-b_gba-gb-maps",
+    "title": "GBA GB Maps",
+    "screenshots": [
+        "cover.png",
+        "screenshots/1FW5LD.png",
+        "screenshots/tsFYF1.png",
+        "screenshots/WiDmTm.png",
+        "screenshots/pnRiSZ.png",
+        "screenshots/VykINC.png",
+        "screenshots/Ot2FcQzn.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GBAGBMAPS_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "retro",
+        "navigation",
+        "tool",
+        "sat-nav",
+        "useful",
+        "event:gbajam26"
+    ],
+    "developer": "codename_B",
+    "website": "https://codename-b.itch.io/gba-gb-maps"
+}

@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "coffeepasta_witchxbullet",
+    "title": "Witch\u00d7Bullet",
+    "screenshots": [
+        "cover.png",
+        "screenshots/MIGvt2FU.gif",
+        "screenshots/1RZPXh.gif",
+        "screenshots/3MseD6.gif",
+        "screenshots/kigdVp.gif",
+        "screenshots/z9N5Ii.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/witchxbullet_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "shoot 'em up",
+        "pixel art",
+        "2d",
+        "shooter",
+        "bullet hell",
+        "magic",
+        "event:gbajam26"
+    ],
+    "developer": "CoffeePasta",
+    "website": "https://coffeepasta.itch.io/witchxbullet"
+}

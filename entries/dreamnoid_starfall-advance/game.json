@@ -1,0 +1,39 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "dreamnoid_starfall-advance",
+    "title": "Starfall Advance",
+    "screenshots": [
+        "cover.png",
+        "screenshots/7fpZNw.png",
+        "screenshots/buYpg2.png",
+        "screenshots/AO2Z7F.png",
+        "screenshots/9TxHLt2B.png",
+        "screenshots/d4VejJ.png",
+        "screenshots/8spZgJ.png",
+        "screenshots/Vuoilm.png",
+        "screenshots/qifwgt2F.png",
+        "screenshots/UA2tbt.png",
+        "screenshots/2FO0dM.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/StarfallAdvance_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "singleplayer",
+        "top-down",
+        "role playing",
+        "pixel art",
+        "pokemon",
+        "2d",
+        "monsters",
+        "event:gbajam26"
+    ],
+    "developer": "Dreamnoid",
+    "website": "https://dreamnoid.itch.io/starfall-advance"
+}

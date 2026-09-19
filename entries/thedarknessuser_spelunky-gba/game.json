@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "thedarknessuser_spelunky-gba",
+    "title": "Spelunky GBA",
+    "screenshots": [
+        "cover.png",
+        "screenshots/lT78fF.gif",
+        "screenshots/hMxag7.gif",
+        "screenshots/OD2fXu.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SPELUNKYGBA_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "platformer",
+        "retro",
+        "rougelike",
+        "2d",
+        "event:gbajam26"
+    ],
+    "developer": "thedarknessuser",
+    "website": "https://thedarknessuser.itch.io/spelunky-gba"
+}

@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "factor64_wfx",
+    "title": "WFX",
+    "screenshots": [
+        "cover.png",
+        "screenshots/xRXijp.png",
+        "screenshots/FFkAUf.png",
+        "screenshots/R7oJj5.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/WFX_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "on-rails shooter",
+        "retro",
+        "3d",
+        "action",
+        "no ai",
+        "event:gbajam26"
+    ],
+    "developer": "Factor",
+    "website": "https://factor64.itch.io/wfx"
+}

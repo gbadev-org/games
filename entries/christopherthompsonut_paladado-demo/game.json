@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "christopherthompsonut_paladado-demo",
+    "title": "Paladado Demo",
+    "screenshots": [
+        "cover.png",
+        "screenshots/KT0LTV.png",
+        "screenshots/pNgct2Fg.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Paladado_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "puzzle",
+        "roguelite",
+        "event:gbajam26"
+    ],
+    "developer": "ChristopherThompsonUT",
+    "website": "https://christopherthompsonut.itch.io/paladado-demo"
+}

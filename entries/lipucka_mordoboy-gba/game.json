@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "lipucka_mordoboy-gba",
+    "title": "MORDOBOY GBA",
+    "screenshots": [
+        "cover.png",
+        "screenshots/bpOa9Q.png",
+        "screenshots/InvyK4.png",
+        "screenshots/m4rNt2F3.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/MORDOBOY_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "action",
+        "pixel art",
+        "arcade",
+        "event:gbajam26"
+    ],
+    "developer": "lipucka",
+    "website": "https://lipucka.itch.io/mordoboy-gba"
+}

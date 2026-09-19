@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "sfiera_spindown",
+    "title": "Spindown",
+    "screenshots": [
+        "cover.png",
+        "screenshots/nGquFM.png",
+        "screenshots/rnpkzS.png",
+        "screenshots/5QVWhw.png",
+        "screenshots/Gk9zvh.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/spindown_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "puzzle",
+        "2d",
+        "event:gbajam26"
+    ],
+    "developer": "sfiera",
+    "website": "https://sfiera.itch.io/spindown"
+}

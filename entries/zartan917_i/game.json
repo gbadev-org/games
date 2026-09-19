@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "zartan917_i",
+    "title": ">i",
+    "screenshots": [
+        "cover.png",
+        "screenshots/amISsH.png",
+        "screenshots/19xNjX.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/greaterthanIDEMO_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "roguelike",
+        "sokoban",
+        "alphabet",
+        "proto-sinaitic",
+        "puzzle",
+        "event:gbajam26"
+    ],
+    "developer": "RetroGamma",
+    "website": "https://zartan917.itch.io/i"
+}

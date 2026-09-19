@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "drkylstein_a-betty-and-claude-cartoon",
+    "title": "A Betty and Claude Cartoon",
+    "screenshots": [
+        "cover.png",
+        "screenshots/jshliK.png",
+        "screenshots/10JOsB.png",
+        "screenshots/b6T9mu.png",
+        "screenshots/t2FlZgDR.png",
+        "screenshots/tBLqfG.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/betty_and_claude_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "driving",
+        "black and white",
+        "action",
+        "cartoon",
+        "event:gbajam26"
+    ],
+    "developer": "OutOfSync",
+    "website": "https://drkylstein.itch.io/a-betty-and-claude-cartoon"
+}

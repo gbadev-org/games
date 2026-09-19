@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "intjt2_sps",
+    "title": "The Space Project Ship",
+    "screenshots": [
+        "cover.png",
+        "screenshots/C8rfCU.png",
+        "screenshots/Qy6xKa.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/TheSpaceProjectShip_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "retro",
+        "shooter",
+        "event:gbajam26"
+    ],
+    "developer": "INTJT2",
+    "website": "https://intjt2.itch.io/sps"
+}

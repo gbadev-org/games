@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "nostabyte_xo89",
+    "title": "xo89",
+    "screenshots": [
+        "cover.png",
+        "screenshots/JzrdNO.png",
+        "screenshots/vr1rO1.png",
+        "screenshots/WVmi12.png",
+        "screenshots/hBYGwT.png",
+        "screenshots/Nwau9g.png",
+        "screenshots/cJDt2FcM.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/xo89_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "retro",
+        "action",
+        "space",
+        "event:gbajam26"
+    ],
+    "developer": "Nostabyte Interactive",
+    "website": "https://nostabyte.itch.io/xo89"
+}

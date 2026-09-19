@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "the-dharex_nave-gba2",
+    "title": "Nave gba",
+    "screenshots": [
+        "cover.png",
+        "screenshots/aqsbk2Fh.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/nave_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "shoot 'em up",
+        "2d",
+        "shooter",
+        "arcade",
+        "event:gbajam26"
+    ],
+    "developer": "the dharex",
+    "website": "https://the-dharex.itch.io/nave-gba2"
+}

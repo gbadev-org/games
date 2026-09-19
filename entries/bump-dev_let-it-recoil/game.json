@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "bump-dev_let-it-recoil",
+    "title": "Let It Recoil!",
+    "screenshots": [
+        "cover.png",
+        "screenshots/7QSdCJ.png",
+        "screenshots/vbOE2b.png",
+        "screenshots/TBY3Zo.png",
+        "screenshots/hyqIQG.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/let-it-recoil_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "roguelike",
+        "roguelite",
+        "survival",
+        "pixel art",
+        "arena shooter",
+        "2d",
+        "endless",
+        "event:gbajam26"
+    ],
+    "developer": "Bump Dev",
+    "website": "https://bump-dev.itch.io/let-it-recoil"
+}

@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "fralacticus_ounfo-tan-sispann",
+    "title": "Ounf\u00f2 Tan Sispann",
+    "screenshots": [
+        "cover.png",
+        "screenshots/LQpg5f.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/ounfo_tan_sispann_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "survival horror",
+        "ounfo",
+        "survival",
+        "vodou",
+        "temple",
+        "haiti",
+        "event:gbajam26"
+    ],
+    "developer": "Fralacticus",
+    "website": "https://fralacticus.itch.io/ounfo-tan-sispann"
+}

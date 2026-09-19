@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "fixxiefixx_pinball-simulator-2026-advanced",
+    "title": "Pinball Simulator 2026 Advanced",
+    "screenshots": [
+        "cover.png",
+        "screenshots/QhFt2FUw.png",
+        "screenshots/xNVtcj.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/PinballSimulator2026Advanced_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "simulation",
+        "event:gbajam26"
+    ],
+    "developer": "fixxiefixx",
+    "website": "https://fixxiefixx.itch.io/pinball-simulator-2026-advanced"
+}

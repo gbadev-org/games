@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "glitchcauldron_ambushed",
+    "title": "Ambushed",
+    "screenshots": [
+        "cover.png",
+        "screenshots/PdCXzH.png",
+        "screenshots/b6YRxh.png",
+        "screenshots/JMmF2p.png",
+        "screenshots/BJo1nC.png",
+        "screenshots/tDIAlW.png",
+        "screenshots/L8P2Kw.png",
+        "screenshots/KULrvF.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/ambushed_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "folklore",
+        "multiplayer",
+        "pixel art",
+        "tactical",
+        "puzzle",
+        "event:gbajam26"
+    ],
+    "developer": "Glitch Cauldron",
+    "website": "https://glitchcauldron.itch.io/ambushed"
+}

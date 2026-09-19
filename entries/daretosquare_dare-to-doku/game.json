@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "daretosquare_dare-to-doku",
+    "title": "Dare To Doku - a GBA puzzle game",
+    "screenshots": [
+        "cover.png",
+        "screenshots/jgxpGa.png",
+        "screenshots/gt2FbFQs.png",
+        "screenshots/VJsofb.png",
+        "screenshots/wOJ4bF.png",
+        "screenshots/gt2FYcqp.png",
+        "screenshots/Fj7jLw.png",
+        "screenshots/xT3esb.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/DareToDoku_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "singleplayer",
+        "retro",
+        "difficult",
+        "pixel art",
+        "2d",
+        "puzzle",
+        "event:gbajam26"
+    ],
+    "developer": "Dare To Square",
+    "website": "https://daretosquare.itch.io/dare-to-doku"
+}

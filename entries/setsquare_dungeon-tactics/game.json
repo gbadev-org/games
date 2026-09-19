@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "setsquare_dungeon-tactics",
+    "title": "Dungeon Tactics",
+    "screenshots": [
+        "cover.png",
+        "screenshots/aCBC4P.png",
+        "screenshots/bYX0An.png",
+        "screenshots/HzyVtS.png",
+        "screenshots/09fsUy.png",
+        "screenshots/Qew4sj.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/dungeon-tactics.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "singleplayer",
+        "turn-based",
+        "roguelike",
+        "tactical",
+        "turn-based strategy",
+        "strategy",
+        "event:gbajam26"
+    ],
+    "developer": [
+        "setsquare",
+        "LostImmortal",
+        "samwilliamssound"
+    ],
+    "website": "https://setsquare.itch.io/dungeon-tactics"
+}

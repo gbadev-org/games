@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "brotherjauffre_brother-jauffres-untitled-puzzle-game",
+    "title": "Brother Jauffre's Untitled Puzzle Game with Two Characters and Three Levels, the Last of Which is Fairly Difficult",
+    "screenshots": [
+        "cover.png",
+        "screenshots/BMkTad.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/brother-jauffre's-untitled-puzzle-game_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "open source",
+        "isometric",
+        "puzzle",
+        "no ai",
+        "event:gbajam26"
+    ],
+    "developer": "brotherjauffre",
+    "website": "https://brotherjauffre.itch.io/brother-jauffres-untitled-puzzle-game"
+}

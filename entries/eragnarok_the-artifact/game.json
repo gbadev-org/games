@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "eragnarok_the-artifact",
+    "title": "The Artifact",
+    "screenshots": [
+        "cover.png",
+        "screenshots/wIItrn.png",
+        "screenshots/rmDNt2FE.png",
+        "screenshots/PKiOcy.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/The_Artifact_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "retro",
+        "adventure",
+        "story rich",
+        "pixel art",
+        "2d",
+        "event:gbajam26"
+    ],
+    "developer": "eragnarok",
+    "website": "https://eragnarok.itch.io/the-artifact"
+}
