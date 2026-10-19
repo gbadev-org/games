@@ -1,0 +1,43 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "celeste2-gba",
+    "title": "Celeste Classic 2 GBA",
+    "alias": [
+        "Celeste2-GBA"
+    ],
+    "developer": [
+        {
+            "name": "Skaleee",
+            "link": "https://github.com/Skaleee",
+            "role": "GBA port"
+        },
+        {
+            "name": "Maddy Thorson",
+            "role": "original game: level design, code"
+        },
+        {
+            "name": "Noel Berry",
+            "role": "original game: art, code"
+        },
+        {
+            "name": "Lena Raine",
+            "role": "original game: sound, music"
+        }
+    ],
+    "platform": "GBA",
+    "typetag": "game",
+    "description": "A port of Celeste Classic 2, the PICO-8 platformer made by Maddy Thorson, Noel Berry and Lena Raine for Celeste's third anniversary. The port aims to be as accurate as possible to the original: gameplay is the same, with some very minor graphical changes, and the PICO-8 audio was converted to tracker files for maxmod. It was tested on emulators, real GBA hardware and the 3DS Virtual Console.\n\nControls: D-pad moves, A or L jumps, B or R grapples, SELECT pauses. Hold L+R+Down+B and press START to reset the game.",
+    "date": "2025-04-07",
+    "tags": [
+        "platform"
+    ],
+    "website": "https://github.com/Skaleee/Celeste2-GBA",
+    "repository": "https://github.com/Skaleee/Celeste2-GBA",
+    "screenshots": [
+        "celeste2-titlescreen.gif",
+        "celeste2-berry.gif",
+        "celeste2-grappling.gif",
+        "celeste2-dying.gif"
+    ],
+    "files": []
+}
