@@ -1,0 +1,50 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "gbatris",
+    "title": "GBAtris",
+    "developer": [
+        {
+            "name": "John Tsiombikas",
+            "link": "http://nuclear.mutantstargoat.com",
+            "role": "code, graphics"
+        },
+        {
+            "name": "Greig Stewart",
+            "link": "https://thereminhero.bandcamp.com",
+            "role": "music"
+        }
+    ],
+    "platform": "GBA",
+    "typetag": "game",
+    "description": "A classic-style falling block puzzle game. It shares some code with the author's earlier terminal game, termtris, and keeps a high score table with name entry. The background music is a short loop from Greig Stewart's laser harp performance of Korobeiniki.\n\nControls: D-pad left/right moves the block, D-pad down makes it fall faster, B or D-pad up drops it immediately, A rotates it. START pauses, SELECT starts a new game, and L or R toggles the music.",
+    "date": "2019-02-19",
+    "tags": [
+        "puzzle",
+        "open-source"
+    ],
+    "gameLicense": "GPL-3.0-or-later",
+    "website": [
+        "http://nuclear.mutantstargoat.com/sw/gbatris/",
+        "https://nuclear.itch.io/gbatris"
+    ],
+    "repository": "https://github.com/jtsiomb/gbatris",
+    "video": "https://www.youtube.com/watch?v=EuQeuwX4pXg",
+    "ai_disclosure": {
+        "code": false,
+        "assets": false,
+        "toolchain": false
+    },
+    "screenshots": [
+        "gameplay.png",
+        "hardware.jpg"
+    ],
+    "files": [
+        {
+            "filename": "gbatris.gba",
+            "playable": true,
+            "default": true,
+            "version": "1.0",
+            "date": "2019-02-27"
+        }
+    ]
+}
