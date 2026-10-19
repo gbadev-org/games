@@ -1,0 +1,46 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "celeste-classic-gba",
+    "title": "Celeste Classic GBA",
+    "alias": [
+        "Celeste-Classic-GBA"
+    ],
+    "developer": [
+        {
+            "name": "JeffRuLz",
+            "link": "https://github.com/JeffRuLz",
+            "role": "GBA port"
+        },
+        {
+            "name": "Maddy Thorson",
+            "link": "https://www.maddymakesgames.com",
+            "role": "original game: design, audio"
+        },
+        {
+            "name": "Noel Berry",
+            "link": "https://noelfb.com",
+            "role": "original game: code, art"
+        }
+    ],
+    "platform": "GBA",
+    "typetag": "game",
+    "description": "A port of Celeste Classic, the PICO-8 platformer by Maddy Thorson and Noel Berry. It is an almost direct conversion of the original, with minor graphical changes.\n\nControls: A jumps, B dashes, SELECT toggles screen shake, and L+R+SELECT+START restarts the game. Pressing L+R+START on the title screen unlocks the second air dash from the start, and the end screen then shows \"cheater\".",
+    "date": "2019-08-02",
+    "tags": [
+        "platform"
+    ],
+    "website": "https://github.com/JeffRuLz/Celeste-Classic-GBA",
+    "repository": "https://github.com/JeffRuLz/Celeste-Classic-GBA",
+    "ai_disclosure": {
+        "code": false,
+        "assets": false,
+        "toolchain": false
+    },
+    "screenshots": [
+        "screen1.png",
+        "screen2.png",
+        "screen3.png",
+        "screen4.png"
+    ],
+    "files": []
+}
