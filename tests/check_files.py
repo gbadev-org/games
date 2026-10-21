@@ -5,13 +5,13 @@ This script should be run after having verified that the game manifest validates
 
 import json
 import os
-import progressbar
+import progressbar2
 
 
 path = "../entries/"
 games_list = os.listdir(path)
 
-for game in progressbar.progressbar(games_list, redirect_stdout=True):
+for game in progressbar2.progressbar(games_list, redirect_stdout=True):
     with open(f"../entries/{game}/game.json") as f:
         game = json.load(f)
     # print(f"Checking {game['slug']}..")
