@@ -1,0 +1,32 @@
+{
+  "developer": "Homebrew Twins",
+  "files": [
+    {
+      "default": true,
+      "filename": "DareToDoku.gba",
+      "playable": true
+    }
+  ],
+  "platform": "GBA",
+  "screenshots": [
+    "start_menu.png",
+    "dare_do_doku-0.png",
+    "dare_do_doku-1.png",
+    "dare_do_doku-2.png",
+    "dare_do_doku-3.png",
+    "dare_do_doku-4.png",
+    "dare_do_doku-5.png"
+  ],
+  "slug": "dare-to-doku",
+  "tags": [
+    "Puzzle"
+  ],
+  "title": "Dare To Doku",
+  "typetag": "game",
+  "date": "2026-09-5T17:00:00",
+  "website": "https://homebrewtwins.com/games/dare-to-doku",
+  "gameWebsite": "https://homebrewtwins.com/games/dare-to-doku",
+  "devWebsite": "https://homebrewtwins.com",
+  "video": "https://www.youtube.com/watch?v=ZCo6VTkhL5w",
+  "description": "This game was made for the GBA Jam 2026 (https://itch.io/jam/gbajam26). A star-battle puzzle game (also known as queens) for the Game Boy Advance, set in the universe of our main game Dare To Square (https://hh.gbdev.io/game/dare-to-square-demo). The goal of the game is to find all players hidden in the grid. You will need to apply a basic set of rules to deduct the locations, similar to minesweeper. The game features 10.000 unique levels (with a grid size of 4 through 10), a challenge mode with leaderboard and a small tutorial to explain the rules of the game."
+}
