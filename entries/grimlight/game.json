@@ -14,6 +14,7 @@
             "playable": true
         }
     ],
+    "license": "MIT",
     "platform": "GBA",
     "repository": "https://github.com/retroromrunner/grimlight",
     "screenshots": [
