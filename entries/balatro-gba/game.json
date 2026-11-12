@@ -1,0 +1,41 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "balatro-gba",
+    "title": "Balatro GBA",
+    "alias": [
+        "Balatro-GBA"
+    ],
+    "developer": [
+        {
+            "name": "cellos51",
+            "link": "https://github.com/cellos51",
+            "role": "code, music arrangement"
+        },
+        {
+            "name": "MeirGavish",
+            "link": "https://github.com/MeirGavish",
+            "role": "code, music arrangement"
+        },
+        {
+            "name": "LocalThunk",
+            "role": "original game"
+        }
+    ],
+    "platform": "GBA",
+    "typetag": "game",
+    "description": "A non-profit fan demake of Balatro, the poker roguelike deckbuilder by LocalThunk, published by Playstack. It aims to recreate the original as accurately as possible, including its visuals. It is a minimal tech demo meant for people who already own and know the original game, and it is not affiliated with or endorsed by LocalThunk or Playstack. The code comes from many contributors; the sprites and backgrounds are based on the original game's art, and the music is arranged from LouisF's original soundtrack.\n\nControls: A picks a card or makes a selection, B deselects all cards, L plays the hand or sells a joker, R discards the hand. Hold A and use the D-pad to move cards and jokers in hand. In the shop, hold B to show a joker's description.",
+    "date": "2025-05-19",
+    "tags": [
+        "card-game",
+        "roguelike"
+    ],
+    "website": "https://github.com/cellos51/balatro-gba",
+    "repository": "https://github.com/cellos51/balatro-gba",
+    "ai_disclosure": {
+        "code": "assisted"
+    },
+    "screenshots": [
+        "gameplay.gif"
+    ],
+    "files": []
+}

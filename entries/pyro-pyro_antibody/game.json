@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "pyro-pyro_antibody",
+    "title": "Antibody",
+    "screenshots": [
+        "cover.png",
+        "screenshots/A0a2F5hW.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Antibody.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "shoot 'em up",
+        "pixel art",
+        "2d",
+        "immune-system",
+        "shooter",
+        "event:gbajam26"
+    ],
+    "developer": [
+        "Pyro_Pyro",
+        "exelotl",
+        "ReyOruga",
+        "Pixel _Jamp"
+    ],
+    "website": "https://pyro-pyro.itch.io/antibody"
+}

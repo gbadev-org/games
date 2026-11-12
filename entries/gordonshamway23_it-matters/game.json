@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "gordonshamway23_it-matters",
+    "title": "It Matters",
+    "screenshots": [
+        "cover.png",
+        "screenshots/oi7GVm.png",
+        "screenshots/ssToql.png",
+        "screenshots/5npIrS.png",
+        "screenshots/erprUA.png",
+        "screenshots/0WL5lr.png",
+        "screenshots/9hQFyc.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/it_matters_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "relaxing",
+        "sokoban",
+        "pixel art",
+        "puzzle",
+        "short",
+        "space",
+        "no ai",
+        "event:gbajam26"
+    ],
+    "developer": [
+        "gordonshamway23",
+        "WTBasil"
+    ],
+    "website": "https://gordonshamway23.itch.io/it-matters"
+}

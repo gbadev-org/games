@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "tito888_wizard-battle",
+    "title": "Wizard Battle",
+    "screenshots": [
+        "cover.png",
+        "screenshots/MaAQQL.png",
+        "screenshots/FuNW8R.png",
+        "screenshots/J8HwFN.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/WIZARDBATTLE_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "pixel art",
+        "strategy",
+        "event:gbajam26"
+    ],
+    "developer": "Tito888",
+    "website": "https://tito888.itch.io/wizard-battle"
+}

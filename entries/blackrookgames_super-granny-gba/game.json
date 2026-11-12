@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "blackrookgames_super-granny-gba",
+    "title": "Super Granny GBA",
+    "screenshots": [
+        "cover.png",
+        "screenshots/LZoAI0.png",
+        "screenshots/TvbG4d.png",
+        "screenshots/XE1EO9.png",
+        "screenshots/t2FtRxAR.png",
+        "screenshots/4jlgOy.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SUPERGRANNYGBA_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "platformer",
+        "demake",
+        "event:gbajam26"
+    ],
+    "developer": "Black Rook Games",
+    "website": "https://blackrookgames.itch.io/super-granny-gba"
+}

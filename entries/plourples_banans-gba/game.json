@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "plourples_banans-gba",
+    "title": "Banan's Peel Out Mini for GBA",
+    "screenshots": [
+        "cover.png",
+        "screenshots/TCpoN7.png",
+        "screenshots/dasdas.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/BanansPeelOutMini_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "action",
+        "pixel art",
+        "no ai",
+        "arcade",
+        "event:gbajam26"
+    ],
+    "developer": "plourples",
+    "website": "https://plourples.itch.io/banans-gba"
+}

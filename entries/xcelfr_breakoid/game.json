@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "xcelfr_breakoid",
+    "title": "Breakoid",
+    "screenshots": [
+        "cover.png",
+        "screenshots/t2Bxtugd.png",
+        "screenshots/RtizCr.png",
+        "screenshots/FR1EL8.png",
+        "screenshots/tV5jm3.png",
+        "screenshots/GLfwVF.png",
+        "screenshots/abZhky.png",
+        "screenshots/ivt2FhqN.png",
+        "screenshots/4qM3Lr.png",
+        "screenshots/a1I7o8.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Breakoid_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "puzzle",
+        "event:gbajam26"
+    ],
+    "developer": "CeL",
+    "website": "https://xcelfr.itch.io/breakoid"
+}

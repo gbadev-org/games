@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "rodrigocard_aurora-mission",
+    "title": "Aurora Mission GBA",
+    "screenshots": [
+        "cover.png",
+        "screenshots/m7OEsp.jpeg",
+        "screenshots/GnPabi.png",
+        "screenshots/pKv2BWS.jpeg",
+        "screenshots/MDyZY0.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/AuroraMission_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "platformer",
+        "exploration",
+        "pixel art",
+        "explosions",
+        "2d",
+        "no ai",
+        "event:gbajam26"
+    ],
+    "developer": "Rodrigo Rocha",
+    "website": "https://rodrigocard.itch.io/aurora-mission"
+}

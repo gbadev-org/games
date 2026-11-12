@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "origamiscienceguy_forever-witch-fighter-gba",
+    "title": "Forever Witch Fighter GBA",
+    "screenshots": [
+        "cover.png",
+        "screenshots/zOT79s.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Forever_Witch_Fighter_GBA_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "singleplayer",
+        "indie",
+        "sprites",
+        "8-bit",
+        "2d",
+        "pixel art",
+        "puzzle",
+        "short",
+        "no ai",
+        "event:gbajam26"
+    ],
+    "developer": "origamiscienceguy",
+    "website": "https://origamiscienceguy.itch.io/forever-witch-fighter-gba"
+}

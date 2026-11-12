@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "eyecrown_la-crypte-de-pictavie",
+    "title": "La Crypte de Pictavie",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Zm23L1.png",
+        "screenshots/D1V2qt2F.png",
+        "screenshots/fDdoqA.png",
+        "screenshots/TN7rRZ.png",
+        "screenshots/NKanBe.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/LACRYPTEDEPICTAVIE_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "retro",
+        "action",
+        "pixel art",
+        "no ai",
+        "event:gbajam26"
+    ],
+    "developer": "Th\u00e9o Carrasco - EyeCrown - 13th Prog",
+    "website": "https://eyecrown.itch.io/la-crypte-de-pictavie"
+}

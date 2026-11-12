@@ -1,0 +1,279 @@
+# ENGLISH
+I developed this tool to help me with the development of my game for GBAJAM 2026, but once I finished it, I realized it had the potential to help others.
+
+It has two modes: a graphical mode and a terminal mode. Both accept a "*.json" file.
+Here's an example:
+
+``` json
+{
+  "default_sprite": "path/to/default_sprite.bmp",
+  "animations": {
+    "animation_name": {
+      "forever": true,
+      "wait_updates": 10,
+      "frames": [ 0, 1, ...],
+      "use_sprite_flip": true,
+      "horizontal_flip": true,
+      "vertical_flip": false,
+      "image_path": "path/to/sprite.bmp",
+    },
+    ...
+  }
+}
+```
+
+In terminal mode, the image paths are only used as a guide to determine the name of the corresponding sprite to be used in Butano; therefore, if the JSON is created manually, you can use the simplified version of "sprite.bmp" instead of "path/to/sprite.bmp" in any argument that requires an image path.
+
+
+## Graphical Mode
+It is divided into several sectors
+
+### Top
+The following buttons are located here
+
+#### New
+Clean and creat e new proyect
+
+#### Open
+Open a previously created project
+
+#### Save
+Save the changes made to the project
+
+#### Export
+Create the files to be used with butano
+
+### Bottom left
+This is where you can select the active animation and create new animations
+
+The buttons are
+
+#### Sprite Default
+Hides and shows the default sprite section; it's only there to provide more space on the screen
+
+#### Boton -
+Delete the selected animation
+
+#### Boton +
+Crea una nueva animacion
+
+#### Lista botones animaciones
+Creat a new animation
+
+### Lower center
+This is where most of the sprite editing takes place
+
+#### Name
+Here you can edit the name of the current animation
+
+#### Image Path
+Here, you select the image file to use as a sprite sheet
+
+#### Sprite sheet
+Here are the sprites that can be used in the animation
+
+#### Frames list
+Here you can view, add, and delete the frames that will be used in the animation
+
+#### Sprite properties
+Here you'll find various properties of the sprite that you can modify, along with a preview of how the animation is shaping up.
+
+
+### Bottom right
+Here is the sprite that will be used as the default; it applies to the entire project.
+
+
+
+## Terminal Mode
+Terminal mode is designed to run from the butano Makefile. The basic command to enter terminal mode is 
+```
+path_to_exe --headless -- [options]
+```
+The options are
+
+#### --input
+Supports folders and files separated by spaces
+```
+path_to_exe --headless -- --input file_1.json folder_1 file_2.json etc
+```
+#### --output
+Folder where the butano files will be created
+```
+path_to_exe --headless -- --output output_path
+```
+
+#### --help
+Prints a message showing the available commands and how to use them
+```
+path_to_exe --headless -- --help
+```
+
+## Usage
+For each ".json" file analyzed, the tool generates the header files needed to create and modify animations. For a file named "npc.json," these are the files that are generated:
+* "mc_manager_animation_npc.hpp", "mc_manager_animation_npc_types.hpp" and "mc_manager_animation_npc_max_frames.hpp" 
+
+They would be used as follows
+
+``` c++
+#include "mc_manager_animation_npc.hpp"
+#include "mc_manager_animation_npc_max_frames.hpp"
+
+bn::sprite_ptr npc = mc::manager_animation::npc::default_sprite();
+
+bn::optional<bn::sprite_animate_action<mc::manager_animation::npc::MAX_FRAMES_COUNT>> animation;
+
+mc::manager_animation::npc::animation_idle(npc, animation);
+```
+or
+``` c++
+#include "mc_manager_animation_npc.hpp"
+#include "mc_manager_animation_npc_types.hpp"
+
+bn::sprite_ptr npc = mc::manager_animation::npc::default_sprite();
+
+mc::manager_animation::npc::animation animation;
+
+mc::manager_animation::npc::animation_idle(npc, animation);
+```
+for a more detailed use, download the examples from the itch.io page
+
+
+# ESPANOL
+
+Esta herramienta la desarrolle para ayudarme con el desarrollo de mi juego para la gbajam 2026, pero cuando termine me parecio que tenia potencial para ayudar a alguien.
+
+Tiene dos modos un modo grafico y un modo terminal los dos reciben un archivo "*.json" 
+Aqui un ejemplo
+
+``` json
+{
+  "default_sprite": "ruta/a/default_sprite.bmp",
+  "animations": {
+    "animation_name": {
+      "forever": true,
+      "wait_updates": 10,
+      "frames": [ 0, 1, ...],
+      "use_sprite_flip": true,
+      "horizontal_flip": true,
+      "vertical_flip": false,
+      "image_path": "ruta/a/sprite.bmp",
+    },
+    ...
+  }
+}
+```
+
+Para el modo terminal las rutas de las imagenes son unicamente como guia para obtener el nombre del respectivo sprite a usar en butano, por lo cual si el json se crea manual mente se puede usar una version simplificade 'sprite.bmp' en lugar de 'ruta/a/sprite.bmp' en todo argumento que requiera una ruta a una imagen
+
+
+## Modo grafico
+Se divide en varios sectores
+
+### Parte superior
+Se encuentran los siguientes botones
+
+#### New
+Limpia y crea un nuevo proyecto
+
+#### Open
+Abre un proyecto previamente creado
+
+#### Save
+Guarda los cambios realizados en el proyecto
+
+#### Export
+Crea los archivos para ser usado en butano
+
+### Parte inferior izquierda
+Se encuentra la seleccion de la animacion activa y creacion de nuevas animaciones
+
+Los botones son
+
+#### Sprite Default
+Oculta y muestra la seccion del sprite default, solo esta para dar mas espacio en la pantalla
+
+#### Boton -
+Elimina la animacion seleccionada
+
+#### Boton +
+Crea una nueva animacion
+
+#### Lista botones animaciones
+Selecciona animacion actual a modificar
+
+### Parte inferior central
+En esta parte se realiza la mayor parte de la edicion de los sprites
+
+#### Name
+Aqui se puede editar el nombre de la animacion actual
+
+#### Image Path
+Aqui se selecciona el archivo de imagen para usar de sprite sheet
+
+#### Sprite sheet
+Aqui se encuentran los sprites que se pueden usar en la animacion
+
+#### Frames list
+Aqui se pueden ver, agregar y eliminar los frames que se usaran en la animacion
+
+#### Sprite properties
+Aqui se encuentran diversar propiedades que se pueden modificar del sprite con una previsualizacion de como va quedando la animacion
+
+#
+### Parte inferior derecha
+Aqui se encuentra el sprite que se usara como default, es general para todo el proyecto
+
+#
+#
+## Modo terminal
+El modo terminal esta disenado para funcionar desde el makefile de butano el comando basico para entrar en modo terminal es 
+```
+path_to_exe --headless -- [options]
+```
+Las opciones son
+#### --input
+Soporta carpetas y archivos separados por espacio
+```
+path_to_exe --headless -- --input archivo_1.json carpeta_1 archivo_2.json etc
+```
+#### --output
+Carpeta en la que se va a crear los archivos para butano
+```
+path_to_exe --headless -- --output ruta_salida
+```
+
+#### --help
+Imprime un mensaje que muestra los comandos disponibles y como usarlos
+```
+path_to_exe --headless -- --help
+```
+
+## Uso
+La herramienta genera por cada ".json" analizado los de cabecera necesarios para crear y modificar las animaciones, para un archivo llamado "npc.json" estos serian los archivos que se generan
+* "mc_manager_animation_npc.hpp", "mc_manager_animation_npc_types.hpp" y "mc_manager_animation_npc_max_frames.hpp" 
+
+Se usarian de la siguiente manera
+
+``` c++
+#include "mc_manager_animation_npc.hpp"
+#include "mc_manager_animation_npc_max_frames.hpp"
+
+bn::sprite_ptr npc = mc::manager_animation::npc::default_sprite();
+
+bn::optional<bn::sprite_animate_action<mc::manager_animation::npc::MAX_FRAMES_COUNT>> animation;
+
+mc::manager_animation::npc::animation_idle(npc, animation);
+```
+o
+``` c++
+#include "mc_manager_animation_npc.hpp"
+#include "mc_manager_animation_npc_types.hpp"
+
+bn::sprite_ptr npc = mc::manager_animation::npc::default_sprite();
+
+mc::manager_animation::npc::animation animation;
+
+mc::manager_animation::npc::animation_idle(npc, animation);
+```
+
+para un uso mas detallado, descarge los ejemplos de la pagina de itch.io

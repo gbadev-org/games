@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "stuck-pixel-studio_knock-time",
+    "title": "Knock Time",
+    "screenshots": [
+        "cover.png",
+        "screenshots/k2F1GyK8.gif",
+        "screenshots/rpJj0y.gif",
+        "screenshots/k2B57uSw.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/KnockTime_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "beat 'em up",
+        "2d",
+        "fighting",
+        "event:gbajam26"
+    ],
+    "developer": [
+        "Stuck Pixel Studio",
+        "Negoro_Sama",
+        "Nabo Games",
+        "Luife"
+    ],
+    "website": "https://stuck-pixel-studio.itch.io/knock-time"
+}

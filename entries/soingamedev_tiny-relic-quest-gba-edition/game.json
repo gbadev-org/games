@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "soingamedev_tiny-relic-quest-gba-edition",
+    "title": "Tiny Relic Quest - GBA Edition",
+    "screenshots": [
+        "cover.png",
+        "screenshots/dyFgY6.jpeg",
+        "screenshots/uR2GVJ.jpeg",
+        "screenshots/InsiBh.jpeg",
+        "screenshots/GrHWVF.jpeg",
+        "screenshots/f2qMGN.jpeg",
+        "screenshots/fda.jpeg",
+        "screenshots/BSB6Sj.jpeg",
+        "screenshots/Y1lILX.jpeg"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/TINYRELICQUEST_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "retro",
+        "procedural generation",
+        "indie",
+        "adventure",
+        "roguelite",
+        "2d",
+        "dungeon crawler",
+        "arcade",
+        "event:gbajam26"
+    ],
+    "developer": "Soin GameDev",
+    "website": "https://soingamedev.itch.io/tiny-relic-quest-gba-edition"
+}

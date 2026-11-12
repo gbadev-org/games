@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "goldcube_cat-fish",
+    "title": "Cat Fish",
+    "screenshots": [
+        "cover.gif",
+        "screenshots/IvZR67.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/pounce_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "action",
+        "event:gbajam26"
+    ],
+    "developer": "goldcube",
+    "website": "https://goldcube.itch.io/cat-fish"
+}

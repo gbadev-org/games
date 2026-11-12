@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "songoku2000_my-beautiful-dere",
+    "title": "My Beautiful Dere",
+    "screenshots": [
+        "cover.png",
+        "screenshots/WyqgWA.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/my-beautiful-dere_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "event:gbajam26"
+    ],
+    "developer": "SonGoku2000",
+    "website": "https://songoku2000.itch.io/my-beautiful-dere"
+}

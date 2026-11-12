@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "mtthgn_sun-rise",
+    "title": "Sun Rise",
+    "screenshots": [
+        "cover.png",
+        "screenshots/djGbFs.png",
+        "screenshots/UKzft2Fz.png",
+        "screenshots/nJ4t2FLY.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/sun_rise.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "platformer",
+        "event:gbajam26"
+    ],
+    "developer": [
+        "mtthgn",
+        "EF_Kyron",
+        "etarrh"
+    ],
+    "website": "https://mtthgn.itch.io/sun-rise"
+}

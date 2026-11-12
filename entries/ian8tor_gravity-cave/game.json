@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "ian8tor_gravity-cave",
+    "title": "Gravity Cave",
+    "screenshots": [
+        "cover.png",
+        "screenshots/BqR2FK.png",
+        "screenshots/Ld5iQH.png",
+        "screenshots/Ht8Wxe.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GravityCave_Jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "singleplayer",
+        "cave",
+        "adventure",
+        "indie",
+        "8-bit",
+        "pixel art",
+        "no ai",
+        "event:gbajam26"
+    ],
+    "developer": "Ian8tor",
+    "website": "https://ian8tor.itch.io/gravity-cave"
+}

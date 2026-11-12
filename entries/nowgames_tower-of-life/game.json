@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "nowgames_tower-of-life",
+    "title": "Tower of Life",
+    "screenshots": [
+        "cover.png",
+        "screenshots/oYz7kV.png",
+        "screenshots/dfPILa.png",
+        "screenshots/t2ByyvaE.png",
+        "screenshots/TeSF0P.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/TowerOfLife_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "role playing",
+        "event:gbajam26"
+    ],
+    "developer": "Now Games",
+    "website": "https://nowgames.itch.io/tower-of-life"
+}

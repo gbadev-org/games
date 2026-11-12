@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "vhaugan_sleepyheads",
+    "title": "Sleepyheads",
+    "screenshots": [
+        "cover.png",
+        "screenshots/atg2FMhT.gif",
+        "screenshots/BbtiX3.gif",
+        "screenshots/CtEcX8.gif",
+        "screenshots/RHp5g2BO.gif",
+        "screenshots/NGR1yK.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SLEEPYHEADS_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "platformer",
+        "event:gbajam26"
+    ],
+    "developer": "VHaugan",
+    "website": "https://vhaugan.itch.io/sleepyheads"
+}

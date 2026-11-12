@@ -1,0 +1,40 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "setsquare_damage-report",
+    "title": "Damage Report",
+    "screenshots": [
+        "cover.png",
+        "screenshots/1d21U2B.png",
+        "screenshots/nO5D1o.gif",
+        "screenshots/LV9dUz.gif",
+        "screenshots/zqdy4j.gif",
+        "screenshots/1HcdiE.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/damage-report_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "singleplayer",
+        "retro",
+        "exploration",
+        "sokoban",
+        "pixel art",
+        "2d",
+        "puzzle",
+        "no ai",
+        "event:gbajam26"
+    ],
+    "developer": [
+        "setsquare",
+        "LostImmortal",
+        "samwilliamssound",
+        "Crazy_Jake"
+    ],
+    "website": "https://setsquare.itch.io/damage-report"
+}

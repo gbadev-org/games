@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "saraitakemoto_pinball-galaxy-demo-ver",
+    "title": "Pinball Galaxy Demo Ver",
+    "screenshots": [
+        "cover.gif",
+        "screenshots/TuwcwC.png",
+        "screenshots/EmPbSY.png",
+        "screenshots/fWx2Lm.png",
+        "screenshots/QM7hGJ.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/pgdv260914_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "gbajam26",
+        "pinball",
+        "sports",
+        "event:gbajam26"
+    ],
+    "developer": "Sarai Takemoto",
+    "website": "https://saraitakemoto.itch.io/pinball-galaxy-demo-ver"
+}

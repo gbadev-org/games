@@ -1,0 +1,54 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "no-rights-reserved",
+    "title": "NO RIGHTS RESERVED",
+    "alias": [
+        "RK-G demo tape 01"
+    ],
+    "developer": [
+        {
+            "name": "RK-G Media Works",
+            "link": "https://media.rk-g.com/en/",
+            "role": "TAPE DECK 02 player, tape building, chiptune arrangements (side A)"
+        },
+        {
+            "name": "Kimiko Ishizaka",
+            "link": "https://www.opengoldbergvariations.org/",
+            "role": "Piano, The Open Goldberg Variations (side B)"
+        },
+        {
+            "name": "Mutopia Project",
+            "link": "https://www.mutopiaproject.org/",
+            "role": "Public-domain scores (side A)"
+        }
+    ],
+    "platform": "GBA",
+    "typetag": "music",
+    "date": "2026-11-02",
+    "description": "A music album packaged as a cassette tape. It plays in TAPE DECK 02, a cassette-deck player program by RK-G Media Works, and was built with their TAPE FACTORY tool, which turns your own audio files into tape ROMs like this one.\n\nAll the music is public domain or CC0. Side A has chiptune arrangements of public-domain scores from the Mutopia Project: Bach's Prelude in C (BWV 846) and Invention 13 (BWV 784), Joplin's The Entertainer and Pineapple Rag, and Debussy's Arabesque No. 1 and Clair de lune. Side B has piano recordings from The Open Goldberg Variations by Kimiko Ishizaka (2012, CC0): the Aria, Variations 1, 7 and 30 (Quodlibet), and the Aria da Capo. The TAPE DECK 02 player itself is closed source.\n\nControls: A plays or pauses, B stops, Left and Right skip tracks, Up and Down change the volume, holding L or R rewinds or fast-forwards, Select changes the play mode and holding Select flips the tape to the other side.",
+    "tags": [
+        "chiptune",
+        "classical"
+    ],
+    "website": [
+        "https://media.rk-g.com/en/gba/play/tape-deck/",
+        "https://media.rk-g.com/en/gba/tape-factory/",
+        "https://rkgmediaworks.itch.io/tape-factory"
+    ],
+    "files": [
+        {
+            "filename": "no-rights-reserved.gba",
+            "playable": true,
+            "default": true
+        }
+    ],
+    "screenshots": [
+        "screenshot1.png",
+        "screenshot2.png",
+        "screenshot3.png"
+    ],
+    "ai_disclosure": {
+        "code": "generated",
+        "toolchain": true
+    }
+}

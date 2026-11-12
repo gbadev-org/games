@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "tarsi_cozy-arcade-redemption-game-gba",
+    "title": "Cozy Arcade Redemption Game [GBA]",
+    "screenshots": [
+        "cover.png",
+        "screenshots/4fYrOH.png",
+        "screenshots/dGGQsz.png",
+        "screenshots/R9UjtY.png"
+    ],
+    "typetag": "game",
+    "platform": "GBA",
+    "files": [
+        {
+            "default": true,
+            "filename": "files/COZYARCADEREDEMPTION_jam.gba",
+            "playable": true
+        }
+    ],
+    "tags": [
+        "event:gbajam26"
+    ],
+    "developer": "tarsi",
+    "website": "https://tarsi.itch.io/cozy-arcade-redemption-game-gba"
+}
