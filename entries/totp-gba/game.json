@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "totp-gba",
+    "title": "totp-gba",
+    "developer": "dmang-dev",
+    "platform": "GBA",
+    "typetag": "tool",
+    "date": "2026-05",
+    "description": "TOTP (RFC 6238) two-factor authenticator for the Game Boy Advance. Supports cart-edge Seiko S-3511A hardware RTC with software-VBlank fallback, twelve color themes, persistent SRAM storage for up to 8 accounts, OAM sprite cursor, and APU sound effects.",
+    "tags": [
+        "open-source"
+    ],
+    "gameLicense": "MIT",
+    "assetsLicense": "MIT",
+    "repository": "https://github.com/dmang-dev/totp-gba",
+    "files": [
+        {
+            "default": true,
+            "filename": "totp-gba.gba",
+            "playable": true
+        }
+    ],
+    "screenshots": [
+        "01-main.png",
+        "02-view.png",
+        "03-settings.png",
+        "05-main-solarized.png",
+        "07-time-set.png"
+    ],
+    "ai_disclosure": {
+        "code": true,
+        "toolchain": false
+    }
+}
