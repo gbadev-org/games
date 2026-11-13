@@ -1,0 +1,41 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "dicebits",
+    "title": "DICEBITS",
+    "alias": [
+        "Dice Royal"
+    ],
+    "developer": {
+        "name": "Sim Graveline",
+        "link": "https://simgraveline.itch.io",
+        "role": "Development, art, design"
+    },
+    "platform": "GBA",
+    "typetag": "game",
+    "date": "2026-10",
+    "commercial": true,
+    "description": "A falling-block puzzle game with dice. Pairs of dice drop into a 7×7 grid, and touching dice of the same value disappear once the group is at least as large as the number they show: two 2s, three 3s, four 4s and so on. A 1 never matches on its own, but when a 1 touches a group being cleared, every 1 on the grid goes with it. A full straight from 1 to 6 in a row or column clears for a bonus, and dice falling into new groups set off chains worth more with each wave.\n\nThe pace rises over 20 levels, and new elements appear along the way: random dice that change face as they fall, bricks that only special dice can remove, seekers that clear every die of one value, bombs, crosses that clear a row and column, and, from level 7, junk drops from the top of the grid. The game ends when a die is left in the top row.\n\nThis is the free demo of the full game.\n\nControls: Left and Right move the pair, Down soft-drops and Up hard-drops. A and B rotate, L and R hold or swap the pair, Select shows the grid lines and Start pauses. L+R+Select puts the game to sleep, and A+B+Start+Select resets it.",
+    "tags": [
+        "puzzle",
+        "falling-block"
+    ],
+    "website": "https://simgraveline.itch.io/dicebits",
+    "video": "https://youtu.be/O4KDZM_nR6I",
+    "files": [
+        {
+            "filename": "dicebits_gba_v132_demo.gba",
+            "playable": true,
+            "default": true,
+            "description": "Demo"
+        }
+    ],
+    "screenshots": [
+        "title.png",
+        "gameplay.png"
+    ],
+    "ai_disclosure": {
+        "code": "assisted",
+        "assets": false,
+        "toolchain": false
+    }
+}
